@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/A_Computer/AddChange.py" line="32" />
+    <bookmark url="file://$PROJECT_DIR$/A_Computer/TjYhQtests.py" line="18" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a46b48-253c-4608-b806-3406093d0028" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PyCharm$XgYhDj.coverage" NAME="XgYhDj Coverage Results" MODIFIED="1535165733977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JB、" />
+    <SUITE FILE_PATH="coverage/PyCharm$Test.coverage" NAME="Test Coverage Results" MODIFIED="1536714854694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$Dog2.coverage" NAME="Dog2 Coverage Results" MODIFIED="1537857300545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$AddChange.coverage" NAME="AddChange Coverage Results" MODIFIED="1536657955676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_for_Purchase_Buy.coverage" NAME="py.test for Purchase.Buy Coverage Results" MODIFIED="1536052804752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$gggggggg.coverage" NAME="gggggggg Coverage Results" MODIFIED="1536396826431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$appium.coverage" NAME="appium Coverage Results" MODIFIED="1536043459777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$yhderzpc.coverage" NAME="yhderzpc Coverage Results" MODIFIED="1528886945349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$pwd.coverage" NAME="pwd Coverage Results" MODIFIED="1533976480938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB" />
+    <SUITE FILE_PATH="coverage/PyCharm$ttttttttt.coverage" NAME="ttttttttt Coverage Results" MODIFIED="1536719147620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$runAll1.coverage" NAME="runAll1 Coverage Results" MODIFIED="1537856362704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv" />
+    <SUITE FILE_PATH="coverage/PyCharm$Copy.coverage" NAME="Copy Coverage Results" MODIFIED="1535016711673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB" />
+    <SUITE FILE_PATH="coverage/PyCharm$Test__1_.coverage" NAME="Test (1) Coverage Results" MODIFIED="1536716304264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_for_AddChange_Add.coverage" NAME="py.test for AddChange.Add Coverage Results" MODIFIED="1536126530229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_for_run_mathfunc_TestMathFunc.coverage" NAME="Unittests for run_mathfunc.TestMathFunc Coverage Results" MODIFIED="1536033203055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_in_TjYhQ_py.coverage" NAME="Twisted Trial in TjYhQ.py Coverage Results" MODIFIED="1536031065434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$MTXX.coverage" NAME="MTXX Coverage Results" MODIFIED="1530083040726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo1" />
+    <SUITE FILE_PATH="coverage/PyCharm$.coverage" NAME="修改用户等级 Coverage Results" MODIFIED="1535163416053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JB、" />
+    <SUITE FILE_PATH="coverage/PyCharm$ggg.coverage" NAME="ggg Coverage Results" MODIFIED="1534469176890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuwuqi" />
+    <SUITE FILE_PATH="coverage/PyCharm$wifiCrack_1.coverage" NAME="wifiCrack_1 Coverage Results" MODIFIED="1533979931860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_for_Test_Login.coverage" NAME="Twisted Trial for Test.Login Coverage Results" MODIFIED="1536029002509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_for_TjYhQtests_AddClass.coverage" NAME="py.test for TjYhQtests.AddClass Coverage Results" MODIFIED="1536911548948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$Login.coverage" NAME="Login Coverage Results" MODIFIED="1536652618338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Phone" />
+    <SUITE FILE_PATH="coverage/PyCharm$baiDU.coverage" NAME="baiDU Coverage Results" MODIFIED="1534496018599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fuwuqi" />
+    <SUITE FILE_PATH="coverage/PyCharm$WX__1_.coverage" NAME="WX (1) Coverage Results" MODIFIED="1529899354710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo1" />
+    <SUITE FILE_PATH="coverage/PyCharm$wifiCrack.coverage" NAME="wifiCrack Coverage Results" MODIFIED="1533975901189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB" />
+    <SUITE FILE_PATH="coverage/PyCharm$WX.coverage" NAME="WX Coverage Results" MODIFIED="1529743443926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$WXHF__1_.coverage" NAME="WXHF (1) Coverage Results" MODIFIED="1529745079861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_for_AddChange_Add.coverage" NAME="Twisted Trial for AddChange.Add Coverage Results" MODIFIED="1536029272087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$setup.coverage" NAME="setup Coverage Results" MODIFIED="1530151025918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_for_run_mathfunc_TestMathFunc_test_minus.coverage" NAME="Unittests for run_mathfunc.TestMathFunc.test_minus Coverage Results" MODIFIED="1536033217315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$db.coverage" NAME="db Coverage Results" MODIFIED="1530348182324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe/dist" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_for_aaaa_aa.coverage" NAME="Unittests for aaaa.aa Coverage Results" MODIFIED="1536032517650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$zz__1_.coverage" NAME="zz (1) Coverage Results" MODIFIED="1530078945692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_in_AddChange_py.coverage" NAME="Unittests in AddChange.py Coverage Results" MODIFIED="1536039877667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$TjYhQ.coverage" NAME="TjYhQtests Coverage Results" MODIFIED="1536912677716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_Login_py.coverage" NAME="py.test in Login.py Coverage Results" MODIFIED="1536143874411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Phone" />
+    <SUITE FILE_PATH="coverage/PyCharm$Demo1.coverage" NAME="Demo1 Coverage Results" MODIFIED="1531298129897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$pil.coverage" NAME="pil Coverage Results" MODIFIED="1539682155716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$WBtongcheng.coverage" NAME="WBtongcheng Coverage Results" MODIFIED="1536392528883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1530753797103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi/pac" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_for_Test_Login.coverage" NAME="Unittests for Test.Login Coverage Results" MODIFIED="1536040251293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_in_Test_py.coverage" NAME="Unittests in Login.py Coverage Results" MODIFIED="1536046166965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Terst.coverage" NAME="Terst Coverage Results" MODIFIED="1536546919630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$SPSPSP.coverage" NAME="SPSPSP Coverage Results" MODIFIED="1531189815031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_Dog2_py.coverage" NAME="py.test in Dog2.py Coverage Results" MODIFIED="1537857259255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$zz.coverage" NAME="zz Coverage Results" MODIFIED="1530071291015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc/image" />
+    <SUITE FILE_PATH="coverage/PyCharm$Dog.coverage" NAME="Dog Coverage Results" MODIFIED="1530256010484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Unittests_in_Login_py.coverage" NAME="Unittests in Login.py Coverage Results" MODIFIED="1536119043659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_Purchase_py.coverage" NAME="py.test in Purchase.py Coverage Results" MODIFIED="1536050229429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Wddyzpc.coverage" NAME="Wddyzpc Coverage Results" MODIFIED="1536394558541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$Taobao.coverage" NAME="Taobao Coverage Results" MODIFIED="1533973500581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TB" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_AddChange_py.coverage" NAME="py.test in AddChange.py Coverage Results" MODIFIED="1536129248644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$WXHF.coverage" NAME="WXHF Coverage Results" MODIFIED="1530344828490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$Indent.coverage" NAME="Indent Coverage Results" MODIFIED="1536136319396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_for_TjYhQ_AddClass.coverage" NAME="Twisted Trial for TjYhQ.AddClass Coverage Results" MODIFIED="1535939736239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/JB、" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_for_XgYhDj_ZXYJ.coverage" NAME="Twisted Trial for XgYhDj.ZXYJ Coverage Results" MODIFIED="1536031583623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Wdderzpc.coverage" NAME="Wdderzpc Coverage Results" MODIFIED="1533284723033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_for_Store_Store.coverage" NAME="py.test for Store.Store Coverage Results" MODIFIED="1536213226588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$aaa.coverage" NAME="aaa Coverage Results" MODIFIED="1536737913575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yaml" />
+    <SUITE FILE_PATH="coverage/PyCharm$yaml.coverage" NAME="yaml Coverage Results" MODIFIED="1537523003675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$meiziDemo.coverage" NAME="meiziDemo Coverage Results" MODIFIED="1528969095787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$aa.coverage" NAME="aa Coverage Results" MODIFIED="1536739358742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_in_Test_py.coverage" NAME="Twisted Trial in Test.py Coverage Results" MODIFIED="1536031053332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Headers.coverage" NAME="Headers Coverage Results" MODIFIED="1528699323803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_in_XgYhDj_py.coverage" NAME="XgYhDj.py Coverage Results" MODIFIED="1536032513950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$snake.coverage" NAME="snake Coverage Results" MODIFIED="1528787659453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv" />
+    <SUITE FILE_PATH="coverage/PyCharm$Pq_Sp.coverage" NAME="Pq_Sp Coverage Results" MODIFIED="1531103406028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$mathfunc.coverage" NAME="mathfunc Coverage Results" MODIFIED="1529742666774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo1" />
+    <SUITE FILE_PATH="coverage/PyCharm$pppppppppp.coverage" NAME="pppppppppp Coverage Results" MODIFIED="1533377536705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe/dist" />
+    <SUITE FILE_PATH="coverage/PyCharm$ZdFr.coverage" NAME="ZdFr Coverage Results" MODIFIED="1536575039030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$WX2.coverage" NAME="WX2 Coverage Results" MODIFIED="1529909478800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_in_Terst_py.coverage" NAME="Twisted Trial in Terst.py Coverage Results" MODIFIED="1536031062627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_Test_py.coverage" NAME="py.test in Test.py Coverage Results" MODIFIED="1536129167897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$BeautifulDemo.coverage" NAME="BeautifulDemo Coverage Results" MODIFIED="1528770254598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Slide.coverage" NAME="Slide Coverage Results" MODIFIED="1536132540856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/method" />
+    <SUITE FILE_PATH="coverage/PyCharm$tool1.coverage" NAME="tool1 Coverage Results" MODIFIED="1536743017550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/PyCharm$TjYhQtests.coverage" NAME="TjYhQtests Coverage Results" MODIFIED="1536978107496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_for_Login_Login.coverage" NAME="py.test for Login.Login Coverage Results" MODIFIED="1536127317433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/PyCharm$jt.coverage" NAME="jt Coverage Results" MODIFIED="1536396413889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exe" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_TjYhQ_py.coverage" NAME="py.test in TjYhQ.py Coverage Results" MODIFIED="1536129884388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$GG.coverage" NAME="GG Coverage Results" MODIFIED="1536650003027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$py_test_in_TjYhQtests_py.coverage" NAME="py.test in TjYhQtests.py Coverage Results" MODIFIED="1536911752396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$Store.coverage" NAME="Store Coverage Results" MODIFIED="1538808716128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Computer" />
+    <SUITE FILE_PATH="coverage/PyCharm$configparser.coverage" NAME="configparser Coverage Results" MODIFIED="1534411627906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python 3.6.3/Lib" />
+    <SUITE FILE_PATH="coverage/PyCharm$SeleniumXuexi.coverage" NAME="SeleniumXuexi Coverage Results" MODIFIED="1528709467550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+    <SUITE FILE_PATH="coverage/PyCharm$Twisted_Trial_in_AddChange_py.coverage" NAME="Twisted Trial in AddChange.py Coverage Results" MODIFIED="1536031060283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium" />
+    <SUITE FILE_PATH="coverage/PyCharm$Purchase.coverage" NAME="Purchase Coverage Results" MODIFIED="1536644862753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/A_Phone" />
+    <SUITE FILE_PATH="coverage/PyCharm$HH.coverage" NAME="HH、 Coverage Results" MODIFIED="1533282535426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Wdpc" />
+    <SUITE FILE_PATH="coverage/PyCharm$Pqxs.coverage" NAME="Pqxs Coverage Results" MODIFIED="1528701414440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Xuexi" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PyCharm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A_Phone/Test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Upgrade.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A_Phone/Upgrade.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Store.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A_Computer/Store.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2755">
+              <caret line="150" column="12" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gggggggg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/gggggggg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pil.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/pil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meiziDemo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/meiziDemo.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="mathfunc.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Xuexi/mathfunc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yaml.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/yaml.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="10" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ttttttttt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xuexi/ttttttttt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="51" selection-start-line="51" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>All</find>
+      <find>Start Time</find>
+      <find>Total</find>
+      <find>erro</find>
+      <find>&lt;a class=&quot;popup_link&quot; onfocus='this.blur();'</find>
+      <find>popup_link</find>
+      <find>this.blur()</find>
+      <find>javascript:showTestDetail</find>
+      <find>status</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\PyCharm\Phone</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Selenium/Indent.py" />
+        <option value="$PROJECT_DIR$/Phone/ff/Login.py" />
+        <option value="$PROJECT_DIR$/Phone/Login.py" />
+        <option value="$PROJECT_DIR$/Phone/啊啊.html" />
+        <option value="D:/python 3.6.3/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/exe/PTu.py" />
+        <option value="$PROJECT_DIR$/exe/setup.py" />
+        <option value="$PROJECT_DIR$/exe/WXHF.py" />
+        <option value="$PROJECT_DIR$/method/Slide.py" />
+        <option value="$PROJECT_DIR$/Phone/Purchase.py" />
+        <option value="$PROJECT_DIR$/Selenium/AddChange.py" />
+        <option value="$PROJECT_DIR$/Wdpc/HH、.py" />
+        <option value="$PROJECT_DIR$/Wdpc/WX2.py" />
+        <option value="$PROJECT_DIR$/A_Computer/XgYhDj.py" />
+        <option value="$PROJECT_DIR$/A_Phone/Upgrade.py" />
+        <option value="$PROJECT_DIR$/A_method/Slide.py" />
+        <option value="$PROJECT_DIR$/A_method/Loging.py" />
+        <option value="$PROJECT_DIR$/A_Phone/Test.py" />
+        <option value="$PROJECT_DIR$/Xuexi/Airtest.py" />
+        <option value="$PROJECT_DIR$/Wdpc/Wdderzpc.py" />
+        <option value="$PROJECT_DIR$/Wdpc/Wddyzpc.py" />
+        <option value="$PROJECT_DIR$/Xuexi/gggggggg.py" />
+        <option value="$PROJECT_DIR$/exe/jt.py" />
+        <option value="$PROJECT_DIR$/Wdpc/Copy.py" />
+        <option value="$PROJECT_DIR$/Wdpc/WBtongcheng.py" />
+        <option value="$PROJECT_DIR$/A_Computer/Terst.py" />
+        <option value="$PROJECT_DIR$/Xuexi/aaaa" />
+        <option value="$PROJECT_DIR$/A_Computer/ZdFr.py" />
+        <option value="$PROJECT_DIR$/Wdpc/GG.py" />
+        <option value="$PROJECT_DIR$/A_Computer/AddChange.py" />
+        <option value="$PROJECT_DIR$/Wdpc/Test.py" />
+        <option value="$PROJECT_DIR$/Xuexi/Test.py" />
+        <option value="$PROJECT_DIR$/Xuexi/ttttttttt.py" />
+        <option value="$PROJECT_DIR$/A_Phone/QQ.py" />
+        <option value="$PROJECT_DIR$/Yaml/yaml/ppppp.yaml" />
+        <option value="$PROJECT_DIR$/Yaml/yaml/WD.yaml" />
+        <option value="$PROJECT_DIR$/Yaml/yaml/DL.yaml" />
+        <option value="$PROJECT_DIR$/Yaml/tools.py" />
+        <option value="$PROJECT_DIR$/Yaml/pages.py" />
+        <option value="$PROJECT_DIR$/Yaml/aaa.py" />
+        <option value="$PROJECT_DIR$/page/aa.py" />
+        <option value="$PROJECT_DIR$/page/tool1.py" />
+        <option value="$PROJECT_DIR$/A_Phone/Purchase.py" />
+        <option value="$PROJECT_DIR$/A_Computer/Store.py" />
+        <option value="$PROJECT_DIR$/A_Computer/TjYhQ.py" />
+        <option value="$PROJECT_DIR$/A_Computer/TjYhQtests.py" />
+        <option value="$PROJECT_DIR$/Xuexi/yaml.py" />
+        <option value="$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv/runAll1.py" />
+        <option value="$PROJECT_DIR$/Xuexi/Dog2.py" />
+        <option value="$PROJECT_DIR$/A_Phone/Login.py" />
+        <option value="$PROJECT_DIR$/Xuexi/pil.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="462" />
+    <option name="width" value="1459" />
+    <option name="height" value="935" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PyCharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCharm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyCharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCharm" type="462c0819:PsiDirectoryNode" />
+              <item name="Xuexi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PyCharm" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PyCharm" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\Selenium" />
+      <recent name="D:\PyCharm\Xuexi" />
+      <recent name="D:\PyCharm\method" />
+      <recent name="D:\PyCharm\Appium" />
+      <recent name="D:\PyCharm\exe" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pil">
+    <configuration name="TestStora.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PyCharm/A_TestReport/TestStora.html" />
+    <configuration name="tets.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PyCharm/A_TestReport/tets.html" />
+    <configuration name="AddChange" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Computer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Computer/AddChange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Dog2" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xuexi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xuexi/Dog2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Login" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Phone" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Phone/Login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Purchase" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Phone" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Phone/Purchase.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Store" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Computer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Computer/Store.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Terst" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Computer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Computer/Terst.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TjYhQtests" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Computer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Computer/TjYhQtests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Upgrade" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Phone" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Phone/Upgrade.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="XgYhDj" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\python 3.6.3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/A_Computer" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/A_Computer/XgYhDj.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pil" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xuexi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xuexi/pil.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="runAll1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv/runAll1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="py.test in Dog2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xuexi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Xuexi/Dog2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Dog2" />
+      <item itemvalue="Python.Store" />
+      <item itemvalue="Python.AddChange" />
+      <item itemvalue="Python.Terst" />
+      <item itemvalue="Python.TjYhQtests" />
+      <item itemvalue="Python.XgYhDj" />
+      <item itemvalue="Python.Upgrade" />
+      <item itemvalue="Python.Purchase" />
+      <item itemvalue="Python.Login" />
+      <item itemvalue="Python.runAll1" />
+      <item itemvalue="Python tests.py.test in Dog2.py" />
+      <item itemvalue="JavaScript Debug.tets.html" />
+      <item itemvalue="JavaScript Debug.TestStora.html" />
+      <item itemvalue="Python.pil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pil" />
+        <item itemvalue="JavaScript Debug.TestStora.html" />
+        <item itemvalue="JavaScript Debug.tets.html" />
+        <item itemvalue="Python tests.py.test in Dog2.py" />
+        <item itemvalue="Python.runAll1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a46b48-253c-4608-b806-3406093d0028" name="Default" comment="" />
+      <created>1528683036632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528683036632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_AddChange_py - 2018.09.05 at 14h 33m 22s.xml">
+      <configuration name="py.test in AddChange.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_AddChange_py - 2018.09.05 at 14h 34m 09s.xml">
+      <configuration name="py.test in AddChange.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TjYhQ_py - 2018.09.05 at 14h 38m 38s.xml">
+      <configuration name="py.test in TjYhQ.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TjYhQ_py - 2018.09.05 at 14h 44m 45s.xml">
+      <configuration name="py.test in TjYhQ.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Login_py - 2018.09.05 at 18h 37m 55s.xml">
+      <configuration name="py.test in Login.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_Store_Store - 2018.09.06 at 13h 53m 49s.xml">
+      <configuration name="py.test for Store.Store" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_TjYhQtests_AddClass - 2018.09.14 at 15h 52m 31s.xml">
+      <configuration name="py.test for TjYhQtests.AddClass" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TjYhQtests_py - 2018.09.14 at 15h 54m 43s.xml">
+      <configuration name="py.test in TjYhQtests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_TjYhQtests_py - 2018.09.14 at 15h 55m 53s.xml">
+      <configuration name="py.test in TjYhQtests.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Dog2_py - 2018.09.25 at 14h 34m 21s.xml">
+      <configuration name="py.test in Dog2.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="88" y="-9" width="1459" height="747" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" x="22" y="368" width="1876" height="303" id="TODO" order="6" show_stripe_button="false" side_tool="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="调试" order="14" sideWeight="0.45320198" weight="0.40642303" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.41349292" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" x="369" y="304" width="1450" height="535" id="Run" order="2" sideWeight="0.5140665" side_tool="true" weight="0.46898803" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840087" weight="0.31338412" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.3523454" weight="0.25897714" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.90123457" visible="true" weight="0.08246708" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.07835821" />
+      <window_info id="Favorites" order="2" sideWeight="0.097165994" side_tool="true" weight="0.20454545" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="缩略图" order="13" sideWeight="0.1433902" weight="0.32855436" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2687704" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4859335" weight="0.36101884" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" sideWeight="0.4989339" weight="0.3297062" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" anchor="bottom" x="369" y="304" width="1450" height="535" id="Run" order="2" sideWeight="0.5140665" side_tool="true" visible="true" weight="0.028291622" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="调试" order="14" sideWeight="0.45320198" weight="0.40642303" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.90123457" weight="0.12473348" />
+      <window_info id="Structure" order="1" sideWeight="0.5016234" side_tool="true" weight="0.07835821" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" x="22" y="368" width="1876" height="303" id="TODO" order="6" show_stripe_button="false" side_tool="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="缩略图" order="13" sideWeight="0.1433902" weight="0.32855436" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49840087" weight="0.31338412" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4859335" weight="0.36101884" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2687704" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.3523454" weight="0.25897714" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.41349292" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" sideWeight="0.4989339" weight="0.3297062" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32995737" />
+      <window_info id="Favorites" order="2" sideWeight="0.097165994" side_tool="true" weight="0.20454545" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Wdpc/HH、.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="45" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/A_method/Slide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/pageelement/mypage.yaml" />
+    <entry file="file://$PROJECT_DIR$/page/pageelement/loginpage.yaml" />
+    <entry file="file://$PROJECT_DIR$/page/pageelement/homepage.yaml" />
+    <entry file="file://$PROJECT_DIR$/page/tool1.py" />
+    <entry file="file://$PROJECT_DIR$/page/aa.py" />
+    <entry file="file://$PROJECT_DIR$/page/tools.py" />
+    <entry file="file://$PROJECT_DIR$/page/pages.py" />
+    <entry file="file://$PROJECT_DIR$/page/templetpage" />
+    <entry file="file://$PROJECT_DIR$/A_Computer/AddChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/58735450/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377">
+          <caret line="339" column="4" selection-start-line="339" selection-start-column="4" selection-end-line="339" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/pac/Demo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/pac/Demo2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/pac/music.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe/WXHF.spec">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe/WXHF.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe/setup.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe/PTu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exe/jt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/yhderzpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/WX2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/Wddyzpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/Wdderzpc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/WBtongcheng.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/HH、.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/GG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="44" column="50" selection-start-line="47" selection-start-column="10" selection-end-line="49" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wdpc/Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/Airtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/Dog.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/Headers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Tencent Files/1583141776/FileRecv/runAll1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_TestReport/tets.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/Dog2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Computer/ZdFr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-841">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Computer/TjYhQtests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1981">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#143#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Computer/XgYhDj.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Phone/QQ.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Phone/Purchase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Phone/Login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Phone/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Phone/Upgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A_Computer/Store.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="150" column="12" selection-start-line="150" selection-start-column="12" selection-end-line="150" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/gggggggg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python 3.6.3/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/ttttttttt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="51" selection-start-line="51" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/yaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/pil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/meiziDemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xuexi/mathfunc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

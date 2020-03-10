@@ -1,0 +1,22 @@
+1.主要基于unittest框架搭建
+2.适用于web端,APP与微信端(公众号，小程序)
+3.主要使用Python3+selenium+appnium+yaml
+4.测试报告使用HTMLTestRunner，BeautifulReport
+
+
+
+
+
+大致框架结构：
+--ZXYJ
+    --APP：用于存放安装包与二次开发的外部库
+    --Base: 基础方法封装
+    --Case: 测试用例
+        --WeChat_Public: 微信公众号测试用例
+        --WeChat_applet: 微信小程序测试用例
+        --Android: 安卓APP测试用例
+    --Dopant: 接口脚本
+    --Head_Tail: 用例运行的头部与用例运行的尾部
+    --Test_report: 存放日志
+    --yaml: 数据管理
+

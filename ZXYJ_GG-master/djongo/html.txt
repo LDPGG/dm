@@ -1,0 +1,430 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="shenma-site-verification" content="d40535211ecc65b5054fb171ed5e8148_1534928040" />
+<meta charset="utf-8" />
+<meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>快手本月热门视频-快音视</title>
+<meta name="keywords" content="快手本月热门视频,热门视频排行榜,热门短视频排行榜" />
+<meta name="description" content="必由之路,改革开放40年，是中国进行伟大变革的40年，是中国创造人类奇迹的40年。谁，是中国故事的主角？什么，是创造奇迹的力量之源？《必由之路》第四集《力量之源》，央视综合频道，20:00档，敬请关注！#我的选择我的路,短视频里面各种漂亮的小姐姐，帅气的小哥哥排行榜，还有其他风格的红人，如搞笑的，有才华的，有可爱的，也有正能量，有感人的，希望这里有一款你中意的小哥哥小姐姐！" />
+<script src="https://hm.baidu.com/hm.js?67cfc45e6393b98852546ccd940217ac"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script>var isMobile =function() {var userAgentInfo =navigator.userAgent;if(!!userAgentInfo.match(/AppleWebKit.*Mobile.*/) ||!!userAgentInfo.match(/AppleWebKit/) ) {var temp =userAgentInfo.toLowerCase();if(temp.indexOf('android') &gt;-1 ||temp.indexOf('iphone') &gt;-1
+||temp.indexOf('ipad') &gt;-1 ||temp.indexOf('windows phone') &gt;-1
+||temp.indexOf('blackberry') &gt;-1 ||temp.indexOf('hp-tablet') &gt;-1
+||temp.indexOf('symbian') &gt;-1 ||temp.indexOf('phone') &gt;-1
+) {return true;}
+}
+return false;};if (isMobile()){location.href ='https://h5.kuaiyinshi.com' + location.pathname + location.search
+}
+(function(){var bp =document.createElement('script');var curProtocol =window.location.protocol.split(':')[0];if (curProtocol ==='https') {bp.src ='https://zz.bdstatic.com/linksubmit/push.js';}
+else {bp.src ='http://push.zhanzhang.baidu.com/push.js';}
+var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(bp,s);})();</script>
+<link rel="shortcut icon" href="//kys.tqdn.cn/favicon.ico?t=1528713159" type="image/vnd.microsoft.icon" />
+<link rel="icon" href="//kys.tqdn.cn/favicon.ico?t=1528713159" type="image/vnd.microsoft.icon" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<link href="//kys.tqdn.cn/css/bootstrap.min.css?t=1538962699" rel="stylesheet" />
+<link rel="stylesheet" href="//kys.tqdn.cn/css/font-awesome.min.css?t=1539221328" />
+<link rel="stylesheet" href="//kys.tqdn.cn/css/layout.css?t=1543020672" />
+<link rel="stylesheet" href="//kys.tqdn.cn/css/common.css?t=1540439684" />
+<link rel="stylesheet" href="//at.alicdn.com/t/font_714689_2jz6wxv7hrh.css" />
+</head>
+<body>
+<header>
+<div id="header" class="header header2">
+<header class="h">
+<div class="container container-home">
+<h1 class="logo">
+<a href="/" title="快音视">
+<img src="/static/images/logo.png" id="logo" alt="快音视" />快音视<span style="font-weight: normal;font-size:14px;padding-left: 5px"> | 全网短视频集合</span></a></h1>
+<ul class="left mob">
+<li><a href="/">首页</a></li>
+<li><a href="/hot/video/?source=dou-yin&amp;page=1&amp;st=week" title="热门视频" class="header-active">热门视频</a></li>
+<li><a href="/hot/author/?source=dou-yin&amp;page=1" title="热门作者">热门作者</a></li>
+<li>
+<a href="/hot/music/?source=dou-yin&amp;page=1" title="热门音乐">热门音乐</a>
+</li>
+<li><a href="/video-tools/" title="短视频编辑工具">视频编辑工具</a></li>
+<li><a href="/download/ext/" title="快抖官方下载，可去抖音视频水印">快抖下载</a></li>
+<li><a href="//huitaodang.com/search/%E6%8A%96%E9%9F%B3%E5%90%8C%E6%AC%BE/" onclick="_hmt.push(['_trackEvent', 'ad', 'click', 'tongkuan'])" title="抖音同款" target="_blank" class="dy-tongkuan" style="color:#FC0156;">抖音同款</a></li>
+</ul>
+<ul class="right">
+<li class="nav-toggle">
+<a href="javascript:;" class="toggle" rel="nofollow"><i><span></span><span></span><span></span></i></a>
+</li>
+</ul>
+<nav id="mob">
+<section class="clearfix"></section>
+</nav>
+<div id="above">
+<div id="header_wrap" class="header-wrap w-1038">
+<ul class="fr head-nav">
+<li><a href="/user/login/" target="_blank">登录</a></li>
+<li><a href="/user/register/" target="_blank">注册</a></li>
+<li> <a href="javascript:;" style="text-decoration: none;">按<em>Ctrl+D</em>添加到收藏夹</a></li>
+</ul>
+</div>
+</div>
+</div>
+</header>
+</div>
+</header>
+<main class="content">
+<div class="wrapper homewrapper pagewrapper">
+<div class="container">
+<div class="container">
+<menu class="nav nav-pills">
+<span class="nav-first">
+<a href="?source=kuai-shou&amp;page=1&amp;st=week" class="nav-first-active">快手</a>
+</span>
+<span class="">
+<a href="?source=huo-shan&amp;page=1&amp;st=week" class="kys-nav-a">火山</a>
+</span>
+<span class="">
+<a href="?source=mei-pai&amp;page=1&amp;st=week" class="kys-nav-a">美拍</a>
+</span>
+<span class="nav-last">
+<a href="?source=dou-yin&amp;page=1&amp;st=week" class="kys-nav-a">抖音</a>
+</span>
+<div class="video-rank">
+<ul class="group">
+<li><a id="one-day" href="/hot/video/?source=kuai-shou&amp;page=1&amp;st=day">本日</a></li>
+<li><a id="one-week" href="/hot/video/?source=kuai-shou&amp;page=1&amp;st=week">本周</a></li>
+<li><a id="one-month" href="/hot/video/?source=kuai-shou&amp;page=1&amp;st=month" class="selected">本月</a></li>
+<li><a id="self-site" href="/hot/video/?source=kuai-shou&amp;page=1&amp;st=">本站</a></li>
+</ul>
+</div>
+</menu>
+<div class="row  masonry" id="video-list">
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTQxMjA2NDNfMTE1NjQwNDUyNl85MzU2Nzc2NzUxXzNfMw==_b_B5473357e02dabc0ded425bd028f4531d&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//tx2.a.yximgs.com/upic/2018/12/14/12/BMjAxODEyMTQxMjA2NDNfMTE1NjQwNDUyNl85MzU2Nzc2NzUxXzNfMw==_B90c30afaa45ee1d1c2ae74d474745dc3.jpg" alt="改革开放40年，是中国进行伟大变革的40年，是中国创造人类奇迹的40年。谁，是中国故事的主角？什么，是创造奇迹的力量之源？《必由之路》第四集《力量之源》，央视综合频道，20:00档，敬请关注！#我的选择我的路" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/03/18/BMjAxODEyMDMxODU4MTZfMTE1NjQwNDUyNl8zX2hkMjM4XzA=.jpg" class="author-avatar" />必由之路</p>
+<p class="list-item-desc">改革开放40年，是中国进行伟大变革的40年，是中国创造人类奇迹的40年。谁，是中国故事的主角？什么，是创造奇迹的力量之源？《必由之路》第四集《力量之源》，央视综合频道，20:00档，敬请关注！#我的选择我的路</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTAxOTU4MzJfMTE1NjQwNDUyNl85MzA4OTEyNDU4XzFfMw==_b_B1d1999f89266b8351836a856f471984e&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/10/19/BMjAxODEyMTAxOTU4MzJfMTE1NjQwNDUyNl85MzA4OTEyNDU4XzFfMw==_B2f1d31a3280a2709512505d7cf3e7666.jpg" alt="中方就华为CFO孟晚舟遭拘押提出强烈抗议！中国公民合法权益不容侵犯，大国尊严不容践踏！当你在外受到伤害时，请记住你身后有一个强大的祖国！#我的选择我的路" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/03/18/BMjAxODEyMDMxODU4MTZfMTE1NjQwNDUyNl8zX2hkMjM4XzA=.jpg" class="author-avatar" />必由之路</p>
+<p class="list-item-desc">中方就华为CFO孟晚舟遭拘押提出强烈抗议！中国公民合法权益不容侵犯，大国尊严不容践踏！当你在外受到伤害时，请记住你身后有一个强大的祖国！#我的选择我的路</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjEyMzM1NTFfOTc0ODg5OTY4Xzk0ODI5MDQ4OTFfMV8z_b_B452b640a3eb03dcf7679afc843cd8b18&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//tx2.a.yximgs.com/upic/2018/12/21/23/BMjAxODEyMjEyMzM1NTFfOTc0ODg5OTY4Xzk0ODI5MDQ4OTFfMV8z_B840d822d59b459abdf5efb04fc92e56f.jpg" alt="危急时刻，他挡开战友，被一颗加重手榴弹炸伤，失去双眼与双手…12月21日，排雷英雄杜富国到重庆接受治疗。" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p>
+<p class="list-item-desc">危急时刻，他挡开战友，被一颗加重手榴弹炸伤，失去双眼与双手…12月21日，排雷英雄杜富国到重庆接受治疗。</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTcxMzMxNDNfOTc0ODg5OTY4Xzk0MTIzNDE0NTFfMV8z_b_Ba714658a15c2b98882b2546553c0e9ec&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/17/13/BMjAxODEyMTcxMzMxNDNfOTc0ODg5OTY4Xzk0MTIzNDE0NTFfMV8z_Be7d0151889c0c18c36abeb396816bb59.jpg" alt="5名消防员牺牲，13名消防员受伤，附近居民无一伤亡…这段视频值得让更多人看到！致敬中国消防员！" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p>
+<p class="list-item-desc">5名消防员牺牲，13名消防员受伤，附近居民无一伤亡…这段视频值得让更多人看到！致敬中国消防员！</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjExNzEyNTZfNjY1MTc5MjA1Xzk0NzQ3MTY1MDBfMV8z_b_B4d5af4bca4e6077feec25a3dd8c9c1a8&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/21/17/BMjAxODEyMjExNzEyNTZfNjY1MTc5MjA1Xzk0NzQ3MTY1MDBfMV8z_Bc6c110af144caf0c0594279bdf0b98f8.jpg" alt="..." />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/03/06/11/BMjAxODAzMDYxMTQ3MjRfNjY1MTc5MjA1XzJfaGQ4ODlfOTgw_s.jpg" class="author-avatar" />金毛贝壳。</p>
+<p class="list-item-desc">...</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTIxMTAwMDdfMTA3MTg4NTYwN185MzI5MDE0MjM4XzFfMw==_b_B41442447b612a541ad8c75f55cd10d4f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//qn.a.yximgs.com/upic/2018/12/12/11/BMjAxODEyMTIxMTAwMDdfMTA3MTg4NTYwN185MzI5MDE0MjM4XzFfMw==_Bc3a19b68485a11ec2755fadf0cc042c0.jpg" alt="超燃军训航拍！南宁职业技术学院2400名大学新生拼出心意，献给亲爱的祖国❤️#请回答2018" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p>
+<p class="list-item-desc">超燃军训航拍！南宁职业技术学院2400名大学新生拼出心意，献给亲爱的祖国❤️#请回答2018</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjEyMDA2MTRfMTA5NjYzNzQwMV85NDc4NTk1MjY0XzFfMw==_b_B515f672b719de48d3456610c3249989f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//ali2.a.yximgs.com/upic/2018/12/21/20/BMjAxODEyMjEyMDA2MTRfMTA5NjYzNzQwMV85NDc4NTk1MjY0XzFfMw==_B2a259f12e3008dc86c98726b987bdb3e.jpg" alt="多让人心痛的喊声…救人的人却差点没挺过来…这些年轻人的日常，真的是拿自己的命换别人的命。致敬，守护我们的人！" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/22/18/BMjAxODA5MjIxODUzMjZfNDYzMzcyNjVfMV9oZDgwNV83Njk=_s.jpg" class="author-avatar" />人民日报</p>
+<p class="list-item-desc">多让人心痛的喊声…救人的人却差点没挺过来…这些年轻人的日常，真的是拿自己的命换别人的命。致敬，守护我们的人！</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTMxMDUxMTlfMTA5MzcxODgwMF85MzQxOTk4MTUxXzJfMw==_b_B38346dbf69fe179b1a579d599c3de7ef&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//ali2.a.yximgs.com/upic/2018/12/13/10/BMjAxODEyMTMxMDUxMTlfMTA5MzcxODgwMF85MzQxOTk4MTUxXzJfMw==_B426bffcb9be084a1ccae05130616a379.jpg" alt="今天，无论你在哪里，请为他们默哀。#国家公祭日#" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/08/11/BMjAxODExMDgxMTQ4MzVfMTA5MzcxODgwMF8yX2hkMTkwXzIy_s.jpg" class="author-avatar" />银川法院</p>
+<p class="list-item-desc">今天，无论你在哪里，请为他们默哀。#国家公祭日#</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTAwOTU3MzdfOTc0ODg5OTY4XzkzMDA2ODE2MzZfMV8z_b_B3c450c90a88da3dea8c510fc0db29686&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//ali2.a.yximgs.com/upic/2018/12/10/09/BMjAxODEyMTAwOTU3MzdfOTc0ODg5OTY4XzkzMDA2ODE2MzZfMV8z_Bb0a294a964819d8e9fac1b5c2509c7c1.jpg" alt="短短两天，2名年轻消防员牺牲…致敬英雄，一路走好！愿所有消防员都能平安归来！" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p>
+<p class="list-item-desc">短短两天，2名年轻消防员牺牲…致敬英雄，一路走好！愿所有消防员都能平安归来！</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTcxMjA5NDdfMTAzMjMzNzU4NF85NDExMDk5MzM3XzFfMw==_b_Bbf1a676af2fab84e809eadc97703e7f7&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/17/12/BMjAxODEyMTcxMjA5NDdfMTAzMjMzNzU4NF85NDExMDk5MzM3XzFfMw==_Bdfb77fd614021c07c50bc2af05ff24c4.jpg" alt="#我的美好生活 #我的选择我的路 #致敬 泪奔！父母看望当兵的儿子，这一幕，看哭无数人..❤️更多军事资讯请关注➡️ @天空中的小伞花" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p>
+<p class="list-item-desc">#我的美好生活 #我的选择我的路 #致敬 泪奔！父母看望当兵的儿子，这一幕，看哭无数人..❤️更多军事资讯请关注➡️ @天空中的小伞花</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMDYxMzA1MDBfOTc0ODg5OTY4XzkyMzg4MjI1NjlfMV8z_b_B88961e11c539f615e29ec914e1374540&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//yd.a.yximgs.com/upic/2018/12/06/13/BMjAxODEyMDYxMzA1MDBfOTc0ODg5OTY4XzkyMzg4MjI1NjlfMV8z_B63f738600b4c784ea20e08883d18d259.jpg" alt="据说，这是东北人的日常～😂" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p>
+<p class="list-item-desc">据说，这是东北人的日常～😂</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMDYxMDM2MTVfOTM5ODAwODI2XzkyMzcwMjYyOTVfM18z_b_B515d4399d7314dd0bd2d6820a88b3fc1&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/06/10/BMjAxODEyMDYxMDM2MTVfOTM5ODAwODI2XzkyMzcwMjYyOTVfM18z_Ba1ee45d0393f7a70c0cd4af9313620a6.jpg" alt="千言万语，不及一句感谢有你。" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/14/10/BMjAxODA1MTQxMDA2NDhfOTM5ODAwODI2XzFfaGQ3MV83NjE=_s.jpg" class="author-avatar" />健康中国官方帐号</p>
+<p class="list-item-desc">千言万语，不及一句感谢有你。</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMDEwNzA0MTVfMTA4OTc1MDA5OV85MTU0OTYyNTIyXzFfMw==_b_B5f8841cb4a30d23980696d16b5d7675a&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//yd.a.yximgs.com/upic/2018/12/01/07/BMjAxODEyMDEwNzA0MTVfMTA4OTc1MDA5OV85MTU0OTYyNTIyXzFfMw==_B4f546b3156a26801ce155e22bc9b9c0d.jpg" alt="#退伍兵   一日为兵，终生战士。若有战，召必回！(姜莉 首国良）" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/13/20/BMjAxODA5MTMyMDA0MTNfMTA4OTc1MDA5OV8yX2hkNjE4XzQ5NQ==_s.jpg" class="author-avatar" />我们的太空</p>
+<p class="list-item-desc">#退伍兵 一日为兵，终生战士。若有战，召必回！(姜莉 首国良）</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjAxMTA1NDFfMTAyMzU1MzE0MF85NDU0MTAyOTg3XzJfMw==_b_B116163ea5cf11752394740970a545d18&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//bd.a.yximgs.com/upic/2018/12/20/11/BMjAxODEyMjAxMTA1NDFfMTAyMzU1MzE0MF85NDU0MTAyOTg3XzJfMw==_Bf35b9d2679faed446fe3ee5b3b938756.jpg" alt="#铁路 火车：我也想拐弯呀，躲不开啊😂" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/24/11/BMjAxODA5MjQxMTI2NDNfMTAyMzU1MzE0MF8yX2hkNDkzXzg0OA==_s.jpg" class="author-avatar" />青春山东</p>
+<p class="list-item-desc">#铁路 火车：我也想拐弯呀，躲不开啊😂</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTUyMDQwNTNfODg5MzcwMDgxXzkzODQ3MDE4MzZfMl8z_b_B35cee0fd3247d812bab457ca8bfb6298&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//tx2.a.yximgs.com/upic/2018/12/15/20/BMjAxODEyMTUyMDQwNTNfODg5MzcwMDgxXzkzODQ3MDE4MzZfMl8z_Bb09aa36c09af139ae88c3e62cffb27c4.jpg" alt="为“教科书式执法”点赞！👍重庆涪陵，民警火锅店抓捕犯罪嫌疑人，事后向用餐的群众解释道歉。@平安重庆" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/24/15/BMjAxODA1MjQxNTI3MTFfODg5MzcwMDgxXzJfaGQ5ODNfODI2_s.jpg" class="author-avatar" />中国长安网</p>
+<p class="list-item-desc">为“教科书式执法”点赞！👍重庆涪陵，民警火锅店抓捕犯罪嫌疑人，事后向用餐的群众解释道歉。@平安重庆</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTYxMzEyMjlfMTA5NjYzNzQwMV85Mzk1MTM1NzIyXzFfMw==_b_B1b9a83d99c87e924b11c7380753fc331&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//tx2.a.yximgs.com/upic/2018/12/16/13/BMjAxODEyMTYxMzEyMjlfMTA5NjYzNzQwMV85Mzk1MTM1NzIyXzFfMw==_Bcb689ff08dedef5c4e54d539d060d392.jpg" alt="入伍12年的老兵李红龙，退伍前最后一次来到训练场。铁骨铮铮的硬汉，终于忍不住哭崩了…哽咽的叮嘱里是多么不舍！" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/22/18/BMjAxODA5MjIxODUzMjZfNDYzMzcyNjVfMV9oZDgwNV83Njk=_s.jpg" class="author-avatar" />人民日报</p>
+<p class="list-item-desc">入伍12年的老兵李红龙，退伍前最后一次来到训练场。铁骨铮铮的硬汉，终于忍不住哭崩了…哽咽的叮嘱里是多么不舍！</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMTIwODE2NTRfOTc0ODg5OTY4XzkzMjc2MjYyMTVfMV8z_b_B06cf3ddbf506bb286ca58ed9afe75f38&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//qn.a.yximgs.com/upic/2018/12/12/08/BMjAxODEyMTIwODE2NTRfOTc0ODg5OTY4XzkzMjc2MjYyMTVfMV8z_B419bc6c8fbe6288900e5038b770ca7a9.jpg" alt="河南平顶山一货车上的羊被电线挂了起来：我是谁？我在哪？委屈！" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p>
+<p class="list-item-desc">河南平顶山一货车上的羊被电线挂了起来：我是谁？我在哪？委屈！</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjAxODE3MTZfOTE3NzkyMjA2Xzk0NjAyNzIzNjhfM18z_b_Bed6f8a68831300054a41969f59becbb3&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//js2.a.yximgs.com/upic/2018/12/20/18/BMjAxODEyMjAxODE3MTZfOTE3NzkyMjA2Xzk0NjAyNzIzNjhfM18z_B6795d2604deabf1d7e501d6c0c1f9903.jpg" alt="中国外交部：坚决反对美方签署相关涉藏法案，西藏事务纯属中国内政，不容任何外国势力干涉。#每天传播正能量#" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/04/12/17/BMjAxODA0MTIxNzAzMjdfOTE3NzkyMjA2XzFfaGQxOTNfMjk4_s.jpg" class="author-avatar" />央视新闻移动网</p>
+<p class="list-item-desc">中国外交部：坚决反对美方签署相关涉藏法案，西藏事务纯属中国内政，不容任何外国势力干涉。#每天传播正能量#</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMjExMjA4MDVfMTAzMjMzNzU4NF85NDcwMDMzODcxXzFfMw==_b_B8d9b6f44118f8c499fb9bf249f877e0c&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//tx2.a.yximgs.com/upic/2018/12/21/12/BMjAxODEyMjExMjA4MDVfMTAzMjMzNzU4NF85NDcwMDMzODcxXzFfMw==_Babeafa5a9e625a88ae47f370f031e581.jpg" alt="#我的美好生活 #致敬改革开放40年 #为人民军队点赞 最近老铁们点赞不给力是咋回事？是我没放超燃大片吗？😍#我的选择我的路" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p>
+<p class="list-item-desc">#我的美好生活 #致敬改革开放40年 #为人民军队点赞 最近老铁们点赞不给力是咋回事？是我没放超燃大片吗？😍#我的选择我的路</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3">
+<a href="/?video_id=BMjAxODEyMDUxNzM0MTVfMTA3MTg4NTYwN185MjI4NTM0MTI0XzFfMw==_b_B01953b28b2db912161a4a5c5a8e5e50a&amp;source=kuai-shou" class="thumbnail list-item" target="_blank">
+<img src="//ali2.a.yximgs.com/upic/2018/12/05/17/BMjAxODEyMDUxNzM0MTVfMTA3MTg4NTYwN185MjI4NTM0MTI0XzFfMw==_B3399719d49494066cc26b0cb52ec3948.jpg" alt="98k遇上冰天雪地，这效果燃爆了！近日，哈尔滨公安特警开展冬季练兵，在-20℃的低温中，爬冰卧雪，挑战极限。" />
+<div class="list-item-title">
+<p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p>
+<p class="list-item-desc">98k遇上冰天雪地，这效果燃爆了！近日，哈尔滨公安特警开展冬季练兵，在-20℃的低温中，爬冰卧雪，挑战极限。</p>
+</div>
+<div class="list-item-play"></div>
+</a>
+</div>
+<div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTAyMjM1MzBfMTAzMjMzNzU4NF85MzExNjU4NTczXzFfMw==_b_Be6f33eb6a35d5316ee1220d5086cc34b&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/10/22/BMjAxODEyMTAyMjM1MzBfMTAzMjMzNzU4NF85MzExNjU4NTczXzFfMw==_B790f7cbb241cd7be5630715bb88a7cec.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p><p class="list-item-desc">#致敬 消防战士牺牲后，中队长一句命令让无数人泪奔...#可触摸的幸福 #为人民军队点赞</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDcyMjI1MjFfOTc3MTE0NDYxXzkyNjE1NzM1MzNfMl8z_b_B21783c57651a40afc68408104a0a6ba7&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//yd.a.yximgs.com/upic/2018/12/07/22/BMjAxODEyMDcyMjI1MjFfOTc3MTE0NDYxXzkyNjE1NzM1MzNfMl8z_Bc3e2b68f8eaabe964b3f7ca40aea74e8.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">火🔥……</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjAyMDMzMzJfMTA5NjYzNzQwMV85NDYyODMzODE1XzFfMw==_b_B55d808bd8a8bf1dd09e222c66b3403fe&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/20/20/BMjAxODEyMjAyMDMzMzJfMTA5NjYzNzQwMV85NDYyODMzODE1XzFfMw==_Be613a65239705d52188709a207c02b26.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/22/18/BMjAxODA5MjIxODUzMjZfNDYzMzcyNjVfMV9oZDgwNV83Njk=_s.jpg" class="author-avatar" />人民日报</p><p class="list-item-desc">看2018年中国外交部精彩回应！有理有据、有节有气，不卑不亢，这才是大国气度。你在哪个瞬间被“外交天团”圈了粉？</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTgxMDIyMjNfOTc3MTE0NDYxXzk0MjQzOTIzNzVfMl8z_b_B9db4a8802806340899693c59978d2211&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/18/10/BMjAxODEyMTgxMDIyMjNfOTc3MTE0NDYxXzk0MjQzOTIzNzVfMl8z_B58927e63370b950c328253e11586c090.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">这次，他们的武器是“万能黄脸盆”……（公子萌  晓杨栋）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTAxMzMzMjZfOTc0ODg5OTY4XzkzMDMzMzQyMzJfMV8z_b_Bf291c833dbefeb6aaaf66abe061548b7&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//qn.a.yximgs.com/upic/2018/12/10/13/BMjAxODEyMTAxMzMzMjZfOTc0ODg5OTY4XzkzMDMzMzQyMzJfMV8z_Bdec8297db04d4c86cefec429f07beec9.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p><p class="list-item-desc">零下30度他们在齐腰深的积雪中巡逻，马匹都被大雪埋住…向红山嘴边防连的战士们致敬！❤️</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMxNzIzMDRfMjMxNTQ3OTVfOTM0Njg2NjQwOF8xXzM=_b_B02e4f13c6a46ef65047b52a1d960e4a9&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/13/17/BMjAxODEyMTMxNzIzMDRfMjMxNTQ3OTVfOTM0Njg2NjQwOF8xXzM=_B61d763fee2c1499dbd13dad27c58e528.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2016/04/05/22/BMjAxNjA0MDUyMjA4NTFfMjMxNTQ3OTVfMV9oZDY3.jpg" class="author-avatar" />山水画师〔招生〕</p><p class="list-item-desc">伴生缘 ❤️</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDcxMzE4MzdfOTc0ODg5OTY4XzkyNTIyNDI0MDdfMV8z_b_B1fb4d2122d7cd4050f134a3d5b101258&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/07/13/BMjAxODEyMDcxMzE4MzdfOTc0ODg5OTY4XzkyNTIyNDI0MDdfMV8z_B630e3bd87181a0a7ec111e50dfe1b09d.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p><p class="list-item-desc">烈士谢勇，你从几十米高空坠落，砸向人们无底的绝望！谁都不知道你经历了什么...对不起，以这样的方式认识你！😭</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDYyMDUzMDdfMTA3MTg4NTYwN185MjQ1MzcxMzYwXzFfMw==_b_B77444f8cbfe432a51ab70fad6ed84588&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/06/20/BMjAxODEyMDYyMDUzMDdfMTA3MTg4NTYwN185MjQ1MzcxMzYwXzFfMw==_B0a29be05301d5c1806c4b4913d8425e0.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p><p class="list-item-desc">华为创始人任正非之女孟晚舟在加拿大被扣留，外交部回应了！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTcxODU5MzJfMTA3MTg4NTYwN185NDE3MDYwOTE1XzJfMw==_b_B108b6b80769f04f04cd6d0d9a44b8890&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/17/18/BMjAxODEyMTcxODU5MzJfMTA3MTg4NTYwN185NDE3MDYwOTE1XzJfMw==_B6b28ef652985789dbe822462d1c47c96.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p><p class="list-item-desc">霸气！就美国国家安全顾问博尔顿称一带一路为中国谋求全球霸权创造条件的言论，华姐17日这样回应。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMwODM5MjJfMTA4ODIyMzE1Nl85MzQwODE2ODY0XzJfMw==_b_B2e4244c4f2d5412b36cac4f6a745a542&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/13/08/BMjAxODEyMTMwODM5MjJfMTA4ODIyMzE1Nl85MzQwODE2ODY0XzJfMw==_B848edbb721e64b452ebebf90b5e7edb0.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/19/18/BMjAxODA5MTkxODEzNDRfMTA4ODIyMzE1Nl8xX2hkMzJfMzky_s.jpg" class="author-avatar" />中国军网</p><p class="list-item-desc">国家公祭日：忘记历史等于背叛！#国家公祭日</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDUxNjA1NDBfOTc3MTE0NDYxXzkyMjcyOTMwMjZfMl8z_b_B6bdbaf3df73b91661c2e61fbe36b72d3&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/05/16/BMjAxODEyMDUxNjA1NDBfOTc3MTE0NDYxXzkyMjcyOTMwMjZfMl8z_B5930789c0b70e0a1be4737657b32f037.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">大家觉得这队列动作可还算标准？小编翻了半天素材库才找到的视频，需要表扬和夸赞哦😊</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMyMjMzMjNfODg5MzcwMDgxXzkzNTIyMjI4NjRfMl8z_b_Bd63057553d98eb20f6b6c8638ea54f5c&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/13/22/BMjAxODEyMTMyMjMzMjNfODg5MzcwMDgxXzkzNTIyMjI4NjRfMl8z_B361d4ac88d1c619db33c2d3aa284297a.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/24/15/BMjAxODA1MjQxNTI3MTFfODg5MzcwMDgxXzJfaGQ5ODNfODI2_s.jpg" class="author-avatar" />中国长安网</p><p class="list-item-desc">#国家公祭日#南京禄口机场航站楼，乘客们听到警报声，不约而同地驻足。👍此刻，空气仿佛是静止的。（来源：网络）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDkwNzUxNDRfOTc3MTE0NDYxXzkyODI3MzY0MzRfMl8z_b_B025b62250959d500cd4b70609d988274&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/09/07/BMjAxODEyMDkwNzUxNDRfOTc3MTE0NDYxXzkyODI3MzY0MzRfMl8z_B1a11d5b197e67eaee2e9a2c104dd191b.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">早安陆军，最近好像有点低调了😎（史亚翔  郭宏阳  徐鑫鑫）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTYxNjE4NTdfODI5MjQwMzQ5XzkzOTg4NDcxMzVfMl8z_b_B3be33b79bdd3c75a67bf78c03a883bef&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/16/16/BMjAxODEyMTYxNjE4NTdfODI5MjQwMzQ5XzkzOTg4NDcxMzVfMl8z_Bce6df631a4038e185c0c94e85e7c7ac4.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/03/01/18/BMjAxODAzMDExODM2MzFfODI5MjQwMzQ5XzJfaGQ0OV8zNzk=_s.jpg" class="author-avatar" />共青团中央</p><p class="list-item-desc">难道只有我一个人觉得以前的衣服拿到现在来穿也挺好看的吗（超小声）#四十秒四十年 @中国青年报</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTcxNTMxNDRfMTA3MTg4NTYwN185NDEzOTA1NDY0XzJfMw==_b_B20e30f57561b3df611b22c518242a280&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/17/15/BMjAxODEyMTcxNTMxNDRfMTA3MTg4NTYwN185NDEzOTA1NDY0XzJfMw==_B65fcb418135ed735ace2565daadb471f.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p><p class="list-item-desc">公交车上，一名小学生帮老人刷了卡，老人坚持要给钱，小学生急哭了.....</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgxMzUyMzBfMTA5NjYzNzQwMV85MjY5NDg5MTkzXzFfMw==_b_B601f019acc578b6282d8f8f75ae01d80&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/08/13/BMjAxODEyMDgxMzUyMzBfMTA5NjYzNzQwMV85MjY5NDg5MTkzXzFfMw==_B04aea4a7e46c1b203b2942c59c9cd55b.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/22/18/BMjAxODA5MjIxODUzMjZfNDYzMzcyNjVfMV9oZDgwNV83Njk=_s.jpg" class="author-avatar" />人民日报</p><p class="list-item-desc">你不知道，嫦娥此行对人类有多重要！它将去往从没人踏足的月球背面。探月工程首席科学家欧阳自远为你讲述。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMwNjA0MzNfMTA4OTc1MDA5OV85MzQwMjQ0NzAyXzFfMw==_b_B2ff991740be912bcbc07440a7e7be490&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/13/06/BMjAxODEyMTMwNjA0MzNfMTA4OTc1MDA5OV85MzQwMjQ0NzAyXzFfMw==_Bdff76069505165e4664915a0cc0f5650.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/13/20/BMjAxODA5MTMyMDA0MTNfMTA4OTc1MDA5OV8yX2hkNjE4XzQ5NQ==_s.jpg" class="author-avatar" />我们的太空</p><p class="list-item-desc">#国家公祭日  缅怀先烈 勿忘国耻 勿忘历史（王琳 梁钊钊）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTQxMTU3MTVfMTA4OTc1MDA5OV85MzU2NjQwNzc4XzFfMw==_b_B6ffe93805f52c88d20afa11551324ff0&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/14/11/BMjAxODEyMTQxMTU3MTVfMTA4OTc1MDA5OV85MzU2NjQwNzc4XzFfMw==_B631b810e9605e611bfedec9d828391aa.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/13/20/BMjAxODA5MTMyMDA0MTNfMTA4OTc1MDA5OV8yX2hkNjE4XzQ5NQ==_s.jpg" class="author-avatar" />我们的太空</p><p class="list-item-desc">#我的美好生活 #军改三周年  兵哥囧事多😂😂😂 （吕龙）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTgxOTMyMzRfMTEzNDIyNDUxMV85NDMyMjkwNzAzXzJfMw==_b_Bc0fa0d2eb8d5760f9a2b86cbc87047ea&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/18/19/BMjAxODEyMTgxOTMyMzRfMTEzNDIyNDUxMV85NDMyMjkwNzAzXzJfMw==_B3c38f689fb9c2705e7753e1940b8579c.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/08/16/BMjAxODExMDgxNjA0NDZfMTEzNDIyNDUxMV8zX2hkOTY2XzA=.jpg" class="author-avatar" />中国海军</p><p class="list-item-desc">阅兵典礼，这一身“浪花白”惊艳四座（作者：赵政智 王浩 等）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDExMjMwNDVfNjk3MTIzMjdfOTE1OTU0MTUwOV8xXzM=_b_B4827dac00b62263d238dae9d6583840f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/01/12/BMjAxODEyMDExMjMwNDVfNjk3MTIzMjdfOTE1OTU0MTUwOV8xXzM=_hd_B2a06421762cf35bd3d454017282a6669.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/01/25/22/BMjAxODAxMjUyMjM0MzBfNjk3MTIzMjdfMV9oZDEwNl84ODE=_s.jpg" class="author-avatar" />木艺妹妹😀</p><p class="list-item-desc">最大的恩情莫过于母爱。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTExODI0NDlfMjg5MzgwNjlfOTMyMTQ1NTI4OF8xXzM=_b_Bf532b747843f834c4f9edbb4ca1b7510&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/11/18/BMjAxODEyMTExODI0NDlfMjg5MzgwNjlfOTMyMTQ1NTI4OF8xXzM=_Be8c576fe69f327762492415b0e5b2701.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2017/12/26/15/BMjAxNzEyMjYxNTAzMzJfMjg5MzgwNjlfMV9oZDIwMV8yNTc=_s.jpg" class="author-avatar" />婕儿妤儿❄️</p><p class="list-item-desc">封面笑死我了～我们好像从小真的没有人欺负过我们……</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQwNzUyNDVfMTAzMjMzNzU4NF85MjA3MzMyMzI1XzFfMw==_b_B4730991c90c0decc57ef7ea184301cc3&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/04/07/BMjAxODEyMDQwNzUyNDVfMTAzMjMzNzU4NF85MjA3MzMyMzI1XzFfMw==_B16749bea855d33d41a532c4dcd2477bf.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p><p class="list-item-desc">我替你卸下军衔，祖国把你还给了我❤️（宋方武、马铭、王承威）#致敬 #中国军人 #为人民军队点赞 #可触摸的幸福</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTQwOTU3MzNfODg5MzcwMDgxXzkzNTUyMzkzMjdfMl8z_b_B0d69fef1c39fadde09056a5b514b3598&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/14/09/BMjAxODEyMTQwOTU3MzNfODg5MzcwMDgxXzkzNTUyMzkzMjdfMl8z_Bb2013614cd9024afc5b859dd3059184e.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/24/15/BMjAxODA1MjQxNTI3MTFfODg5MzcwMDgxXzJfaGQ5ODNfODI2_s.jpg" class="author-avatar" />中国长安网</p><p class="list-item-desc">现实版《毒战》上演！民警抓捕毒贩现场</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgxMjUwNDVfMTA3MTg4NTYwN185MjY4MzMzOTA0XzFfMw==_b_B9d52a15612c061c5b087df32808dc45f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/08/12/BMjAxODEyMDgxMjUwNDVfMTA3MTg4NTYwN185MjY4MzMzOTA0XzFfMw==_B5e1cb66cfd5aa0d0e0bd438d60d919fe.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p><p class="list-item-desc">揭秘！嫦娥四号整装发射全程，它将带着勇气，去往月球背面，那是人类从未踏足过的地方。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjMxMTQyNDVfMTc3NDc3OTg0Xzk1MTA0NDQ3NzFfMV8z_b_Bb67465c108e21006f93d1ae2859b9320&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/23/11/BMjAxODEyMjMxMTQyNDVfMTc3NDc3OTg0Xzk1MTA0NDQ3NzFfMV8z_B04da8c5370f57827f471b47fc932a2c1.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/30/10/BMjAxODExMzAxMDIxMzFfMTc3NDc3OTg0XzFfaGQ4MTFfMTc=_s.jpg" class="author-avatar" />超可爱的贝（搞笑姐妹）</p><p class="list-item-desc">中国🇨🇳文化！顶！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTIxNzAzNDlfMTA3MTg4NTYwN185MzMzNDAzNDI5XzFfMw==_b_B1c1d473777dbaa91a89407ac41e78fda&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/12/17/BMjAxODEyMTIxNzAzNDlfMTA3MTg4NTYwN185MzMzNDAzNDI5XzFfMw==_B0fd46351c9fb9e4ac99ecb1764362314.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/23/18/BMjAxODA4MjMxODUyNDlfMTA3MTg4NTYwN18xX2hkNTU4XzI0OQ==_s.jpg" class="author-avatar" />新华社</p><p class="list-item-desc">12日外交部例行记者会上，发言人陆慷对加方批准孟晚舟保释这样表态。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTQxMTAyMTJfMTA5NjYzNzQwMV85MzU1OTU5NTU2XzFfMw==_b_B3bd076855d4a74603a8f712d9235b8d6&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//yd.a.yximgs.com/upic/2018/12/14/11/BMjAxODEyMTQxMTAyMTJfMTA5NjYzNzQwMV85MzU1OTU5NTU2XzFfMw==_B2a5adae046f082b0399541e2f13cb42d.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/22/18/BMjAxODA5MjIxODUzMjZfNDYzMzcyNjVfMV9oZDgwNV83Njk=_s.jpg" class="author-avatar" />人民日报</p><p class="list-item-desc">对“一些在华加拿大人表示不安”的提问，外交部回应：很多中国人都在掂量前往加拿大旅行是否安全。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMyMDU5MTdfOTc3MTE0NDYxXzkzNTA2NDg3NDBfMl8z_b_B5ab795da669b246028fca27fc22e03ef&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/13/20/BMjAxODEyMTMyMDU5MTdfOTc3MTE0NDYxXzkzNTA2NDg3NDBfMl8z_B70d3144489630dd6706706ae7b35e2cb.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">18岁，我的选择是成为一名军人。（于新院 张书源）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTIxODI5MTJfMzg4ODM5OF85MzM0NjMyMjY1XzFfMw==_b_B3b4af80bf5d8f4a39f0d232954b8a187&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ms.a.yximgs.com/upic/2018/12/12/18/BMjAxODEyMTIxODI5MTJfMzg4ODM5OF85MzM0NjMyMjY1XzFfMw==_Bab4e611b30783cb600de5f9455eff3db.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/01/11/BMjAxODEyMDExMTExMjlfMzg4ODM5OF8xX2hkOTY0Xzc2Mw==_s.jpg" class="author-avatar" />当 当 🐱</p><p class="list-item-desc">太冷了 来自贵州 支持的扣个1</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTUwNjQ4NDdfOTM3Nzk1OV85MzY5OTE4NDMxXzFfMw==_b_B44bc02abc4848fd63de967970f20cd98&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/15/06/BMjAxODEyMTUwNjQ4NDdfOTM3Nzk1OV85MzY5OTE4NDMxXzFfMw==_B3dcf10127c97670f6fec2d2086cdea41.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/12/00/BMjAxODA5MTIwMDAxMjJfOTM3Nzk1OV8xX2hkNDA3XzgzNA==_s.jpg" class="author-avatar" />王小国15号结婚14红毯</p><p class="list-item-desc">最帅伴郎团 @刘叉叉（晚9点直播）
+ @你样哥-新歌《避而不见》
+ @李耀阳（全民老公）
+ @巴扎黑最新单曲（经历）
+
+整挺好！ 感谢伴郎团
+等我老婆 @琴哥sunny接你去了！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTAxODM4NDNfMzI4NzI2MDAzXzkzMDc0NDk4MTFfMl8z_b_B8b9f3648d6e2528a6f22a1dd58b30dc4&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/10/18/BMjAxODEyMTAxODM4NDNfMzI4NzI2MDAzXzkzMDc0NDk4MTFfMl8z_Bf64044b7576a0abb7cee60fec65175a8.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/10/20/22/BMjAxODEwMjAyMjA1MzFfMzI4NzI2MDAzXzJfaGQyMzBfOTQ4_s.jpg" class="author-avatar" />🐾心悦君兮君不知ZDL</p><p class="list-item-desc">...</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDcwOTIwMjZfNzA0NjY4MTMzXzkyNDk1MDkwMDlfMV8z_b_B918dcbeffaefd5af778d48635b6d02a3&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//sjy.a.yximgs.com/upic/2018/12/07/09/BMjAxODEyMDcwOTIwMjZfNzA0NjY4MTMzXzkyNDk1MDkwMDlfMV8z_B2073f311921e62d0af2bddc39c65f622.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/01/15/BMjAxODA4MDExNTIzMzVfNzA0NjY4MTMzXzFfaGQ1NThfMTUz_s.jpg" class="author-avatar" />KPL王者荣耀职业联赛</p><p class="list-item-desc">好久不见——2018年KPL秋季赛总决赛，梦泪回来了！ @AG超玩会王者梦泪#王者荣耀 #KPL</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDExODI5NDdfMzM1ODk1Ml85MTY2ODYwNjQwXzFfMw==_b_Bbd81c9635e57c9f9600038caf0b8a66f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/01/18/BMjAxODEyMDExODI5NDdfMzM1ODk1Ml85MTY2ODYwNjQwXzFfMw==_hd_Bba110dc387fd3dd36558d1f1468f0902.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2016/07/05/21/BMjAxNjA3MDUyMTI0NTdfMzM1ODk1Ml8yX2hkMA==.jpg" class="author-avatar" />陈雪凝Sherly.</p><p class="list-item-desc">得瑟一下哈哈哈(/ω＼)</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjEwOTAzNTVfOTE2MjUxOTkyXzk0Njc2NjM0NzVfMl8z_b_B37cad18dc71824751dd9a175a8b5463f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/21/09/BMjAxODEyMjEwOTAzNTVfOTE2MjUxOTkyXzk0Njc2NjM0NzVfMl8z_B6f28ddac88b5f19a2fadd60790742dcc.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/10/13/17/BMjAxODEwMTMxNzQzMjZfOTI5MDI3NDc3XzFfaGQ2NzJfMjI1_s.jpg" class="author-avatar" />青春北京</p><p class="list-item-desc">40年来，中国人民将无数不可能变成可能，你自豪吗？#致敬改革开放40年 #我的美好生活 #青春北京 #我爱你中国 #正能量</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjAxNDA5NDNfOTM5ODAwODI2Xzk0NTY3MTU3NzRfMF8z_Ba18ef102ace31b0c16f0a428002a955b&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/20/14/BMjAxODEyMjAxNDA5NDNfOTM5ODAwODI2Xzk0NTY3MTU3NzRfMF8z_B23c044dc93b12ae8d63379890b5e7702.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/14/10/BMjAxODA1MTQxMDA2NDhfOTM5ODAwODI2XzFfaGQ3MV83NjE=_s.jpg" class="author-avatar" />健康中国官方帐号</p><p class="list-item-desc">父母的每一个动作，孩子都会学，包括吸烟！为了孩子的健康，请控制吸烟，主动戒烟。#每天传播正能量#</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTExMjQ0MzRfOTc0ODg5OTY4XzkzMTY5NzQ4NjNfMV8z_b_B36e65f7350cd216fa85ca5cf12417876&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/11/12/BMjAxODEyMTExMjQ0MzRfOTc0ODg5OTY4XzkzMTY5NzQ4NjNfMV8z_B453ac970717feeee9d45d46995c81b59.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p><p class="list-item-desc">黑河的气温已降到零下30多度。辛苦了，我的兵哥哥！❤️你一定要看到最后！兵哥哥们皮起来也是没谁了～</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDExODMyMDlfOTY0ODc1ODFfOTE2NjkwNjg3MF8xXzM=_b_Bfb28df27a44470efb0ff1fe2c837d15b&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/01/18/BMjAxODEyMDExODMyMDlfOTY0ODc1ODFfOTE2NjkwNjg3MF8xXzM=_Bfd600424e7c272ab2000d7d8daf734ba.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2017/12/10/22/BMjAxNzEyMTAyMjA1MDBfOTY0ODc1ODFfMV9oZDU1N18xMTU=_s.jpg" class="author-avatar" />浪子夜雨『迪』</p><p class="list-item-desc">家人们，连点两下屏幕好么？
+
+你真心爱过一个人么？
+
+ @浪子吴迪（迪静九）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTQxMTQ4NDlfOTY5MzI0MzkzXzkzNTY1MzYwNDFfMl8z_b_B4b57ee5522bc1f775a2678f6d96c2f3c&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/14/11/BMjAxODEyMTQxMTQ4NDlfOTY5MzI0MzkzXzkzNTY1MzYwNDFfMl8z_B376fa7e3d47b14a40a6fa00226106ca2.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/07/17/BMjAxODEyMDcxNzE0NTdfOTY5MzI0MzkzXzJfaGQyNDBfOTQz_s.jpg" class="author-avatar" />包子讲世界</p><p class="list-item-desc">想想打针就很害怕呢！你献过血么？献血疼么？</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDUxNzQ3MTVfMTExNzYzODc5XzkyMjg3NDMwOTBfMV8z_b_Bbd40339ec0515697eae4fc161cdcdf7e&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/05/17/BMjAxODEyMDUxNzQ3MTVfMTExNzYzODc5XzkyMjg3NDMwOTBfMV8z_Bb51fa688341d7be8d32cd7f97a1f7be1.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/16/14/BMjAxODA4MTYxNDIyNDFfMTExNzYzODc5XzFfaGQxNzRfMTkz_s.jpg" class="author-avatar" />家琪很可爱🔆</p><p class="list-item-desc">男人的快乐就是这么简单😂</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTgxNDUzMTNfODI5MjQwMzQ5Xzk0MjgwODEyNTBfMl8z_b_B74aca160af0b39d853134b8a78a7bf65&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//qn.a.yximgs.com/upic/2018/12/18/14/BMjAxODEyMTgxNDUzMTNfODI5MjQwMzQ5Xzk0MjgwODEyNTBfMl8z_B4061faaad701cbf8c5da3ceb9ebd4236.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/03/01/18/BMjAxODAzMDExODM2MzFfODI5MjQwMzQ5XzJfaGQ0OV8zNzk=_s.jpg" class="author-avatar" />共青团中央</p><p class="list-item-desc">党和国家领导人集体站起转身，向“改革先锋”称号获得者和“中国改革友谊奖章”获得者表示祝贺。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDMwNzQ0NTJfNjM4Mzc5MTk0XzkxOTM0Njg0MzdfMV8z_b_B1fa923c07640d3457d16982600670c0d&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/03/07/BMjAxODEyMDMwNzQ0NTJfNjM4Mzc5MTk0XzkxOTM0Njg0MzdfMV8z_hd_B127383a04a842ea299f76988976b3243.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/26/14/BMjAxODA5MjYxNDQ1MjNfNjM4Mzc5MTk0XzFfaGQyOTBfNzYx_s.jpg" class="author-avatar" />KAM鑫～摄影</p><p class="list-item-desc">开始截屏时刻，评论你截到的颜色。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQxOTI5MDJfNjA3MzY5MTA2XzkyMTU1NDAxMzRfMl8z_b_B41603228a5da5015fa044a41d851a22f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/04/19/BMjAxODEyMDQxOTI5MDJfNjA3MzY5MTA2XzkyMTU1NDAxMzRfMl8z_hd_B011f897c8bf8664fcc9f2eff87c0f528.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2017/08/05/07/BMjAxNzA4MDUwNzQwMjZfNjA3MzY5MTA2XzJfaGQxMDZfNjQ=_s.jpg" class="author-avatar" />湘湘妈简笔画</p><p class="list-item-desc">祝天下爷爷奶奶健康长寿❗❗</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDkxNTQwMTBfMTAyOTc1MjA4MV85MjkwMTcxMzg5XzFfMw==_b_Ba4533ab13956bcb8da87a22dd15e70b0&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/09/15/BMjAxODEyMDkxNTQwMTBfMTAyOTc1MjA4MV85MjkwMTcxMzg5XzFfMw==_Bc396580ae95c19be0098a22439ae4e21.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/03/21/BMjAxODEyMDMyMTU4MThfMTAyOTc1MjA4MV8xX2hkNDU2XzQ3OA==_s.jpg" class="author-avatar" />大凯爱吃肉（正能量）</p><p class="list-item-desc">最冷的几个月，请不要乱扔垃圾！我们冷！—他们更冷！每一份工作都值得我们尊重！让我们把爱心传递下去！💗</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDkxNjMxMTJfOTc3MTE0NDYxXzkyOTExMTE1NzRfMl8z_b_B4daf9904a0f6ff9af7f594d8aa54e083&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/09/16/BMjAxODEyMDkxNjMxMTJfOTc3MTE0NDYxXzkyOTExMTE1NzRfMl8z_B694b832dbb7059029d53f3cc27365d02.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">还记得你的老班长吗？他对你说过印象最深的那句话还记得吗？</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDMwODIzNThfOTQzNzMxNTA5XzkxOTM2OTA4NDhfMV8z_b_B45edc422390dededb1b6de62685ded63&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/03/08/BMjAxODEyMDMwODIzNThfOTQzNzMxNTA5XzkxOTM2OTA4NDhfMV8z_hd_B09acafcf1881051f220f2fc39359dfb8.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/10/21/16/BMjAxODEwMjExNjAzNDRfOTQzNzMxNTA5XzFfaGQ3Ml8zNw==_s.jpg" class="author-avatar" />二狗（手机摄影）</p><p class="list-item-desc">感冒了，好难受😣下雨了你们注意点身体❤️</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDUyMDAxNDhfNDU4NTUxMzhfOTIzMTA5NzI5OV8xXzM=_b_Bdceec3ae37b9a0a335ee1282e9c1b62c&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/05/20/BMjAxODEyMDUyMDAxNDhfNDU4NTUxMzhfOTIzMTA5NzI5OV8xXzM=_B6550b2ec6627c723b1d5325b603afa53.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/17/18/BMjAxODA4MTcxODEwNTBfNDU4NTUxMzhfMV9oZDk4OV8zOTU=_s.jpg" class="author-avatar" />幸猴儿：</p><p class="list-item-desc">暗恋了很久的女生，没想到她也喜欢我！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTkxNDQwNDBfMTAzMjMzNzU4NF85NDQyNDYyODAxXzFfMw==_b_B8326bddd004a5e569b8307cdee7b3289&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/19/14/BMjAxODEyMTkxNDQwNDBfMTAzMjMzNzU4NF85NDQyNDYyODAxXzFfMw==_B658c221e17c9b84fe4d8a011aa1850eb.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p><p class="list-item-desc">#我的选择我的路 #我的美好生活 #致敬改革开放40年 这个警匪片，实在太逼真了😂</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTEyMjIyMzFfMTE1NjQwNDUyNl85MzI1MzM5NDkwXzFfMw==_b_B63ceec9f9b5d89dfad2c3c419abb9193&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/11/22/BMjAxODEyMTEyMjIyMzFfMTE1NjQwNDUyNl85MzI1MzM5NDkwXzFfMw==_Bf49edd775b5a8ce230717efa4202472f.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/03/18/BMjAxODEyMDMxODU4MTZfMTE1NjQwNDUyNl8zX2hkMjM4XzA=.jpg" class="author-avatar" />必由之路</p><p class="list-item-desc">1911年的今天，钱学森出生。他是中国航天事业的奠基人，“两弹一星”元勋；美国人说他抵得上5个师，宁可枪毙也不让回国；软禁5年，他用香烟纸发出求助信，周总理亲自操办回国。钱老说：“人民说我为国家、民族做了点事，就是最高奖赏！”致敬！#我的选择我的路</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDUwODMzMjBfMTAzMjMzNzU4NF85MjIxNzgzMjc2XzFfMw==_b_Bff0981162864817c18e79734383d6804&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ms.a.yximgs.com/upic/2018/12/05/08/BMjAxODEyMDUwODMzMjBfMTAzMjMzNzU4NF85MjIxNzgzMjc2XzFfMw==_B5d712655e18f222a8f43364641c85c69.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/07/25/09/BMjAxODA3MjUwOTU3MTZfMTAzMjMzNzU4NF8xX2hkMzg0Xzc4MA==_s.jpg" class="author-avatar" />我们的天空</p><p class="list-item-desc">#致敬 #中国军人 班长，您到家了吗？#为人民军队点赞 #可触摸的幸福</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjExMzI4MzVfOTc3MTE0NDYxXzk0NzEzMTQwNTdfMl8z_b_B50e086b65f25fc579d3f6abcd8cc19a2&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/21/13/BMjAxODEyMjExMzI4MzVfOTc3MTE0NDYxXzk0NzEzMTQwNTdfMl8z_Bfe965deb7d58a23edc61a32ec774b4bc.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/12/09/BMjAxODA2MTIwOTQ4MjBfOTc3MTE0NDYxXzJfaGQ4NThfMTAy_s.jpg" class="author-avatar" />中国陆军</p><p class="list-item-desc">据枪、瞄准、击发……加油少年，百步穿杨不是梦！（西南猎豹）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQxNjQwMDBfNTI1NjU5Mjg0XzkyMTMwMDMyNjFfMV8z_b_B0475801ae75295a0f7afd0380675a2b3&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/04/16/BMjAxODEyMDQxNjQwMDBfNTI1NjU5Mjg0XzkyMTMwMDMyNjFfMV8z_hd_B2583f07c1a4fe6c0e028f40273eaae9d.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/28/17/BMjAxODExMjgxNzE4MTJfNTI1NjU5Mjg0XzFfaGQyMTBfNjIy_s.jpg" class="author-avatar" />木艺轩～永哥</p><p class="list-item-desc">今晚9:30直播，不见不散。</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjMxNDA1NDJfOTc0ODg5OTY4Xzk1MTM2NDkxOTZfMV8z_b_Be5172c7aae78a7e4f95bd7299bcdc732&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/23/14/BMjAxODEyMjMxNDA1NDJfOTc0ODg5OTY4Xzk1MTM2NDkxOTZfMV8z_B1dbff0121064653d2a18a1e1448f2f3f.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/06/06/16/BMjAxODA2MDYxNjE0MTFfOTc0ODg5OTY4XzFfaGQ2NTVfNTUw_s.jpg" class="author-avatar" />人民网</p><p class="list-item-desc">排雷兵是离死神最近的军人。英雄背后，留下一方平安净土。向那些为和平负重前行的人们致敬！❤️</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTkyMjA1MjZfODg5MzcwMDgxXzk0NDk2ODY4NzdfMl8z_b_Bff4fb63eb5153898700c6caacec9e2d2&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/19/22/BMjAxODEyMTkyMjA1MjZfODg5MzcwMDgxXzk0NDk2ODY4NzdfMl8z_B0cb1b2425e0233da11a4e9da556e4994.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/24/15/BMjAxODA1MjQxNTI3MTFfODg5MzcwMDgxXzJfaGQ5ODNfODI2_s.jpg" class="author-avatar" />中国长安网</p><p class="list-item-desc">浙江义乌火车站，一男子身穿写有“逍遥法外”的黑卫衣。民警上前盘查后发现，该男子是一名逃犯！😂😂@平安浙江网</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDcyMzEwNDhfNDc0ODc2MF85MjYyMjE4NjA0XzFfMw==_b_Bb52b216be5be7a4f68438ce89e02743b&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/07/23/BMjAxODEyMDcyMzEwNDhfNDc0ODc2MF85MjYyMjE4NjA0XzFfMw==_B0d8da680cb583e2ffdd79c677c05df91.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/04/14/BMjAxODExMDQxNDUyNDdfNDc0ODc2MF8xX2hkMTAxXzI2OA==_s.jpg" class="author-avatar" />薇薇欧尼 🍼</p><p class="list-item-desc">总要学会长大 甚至成为从未想过的模样</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgyMDEwMjFfODM3MTYxMDQ0XzkyNzcxMjY5NThfMl8z_b_Bfdccec1f7a61c128391e88581a67903a&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/08/20/BMjAxODEyMDgyMDEwMjFfODM3MTYxMDQ0XzkyNzcxMjY5NThfMl8z_B979a01e0070e8a2e64cc76b3c515a59a.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/18/21/BMjAxODExMTgyMTAxMThfODM3MTYxMDQ0XzJfaGQ4OTFfNDUy_s.jpg" class="author-avatar" />Only for Roy</p><p class="list-item-desc">今晚的视频😂估计都是看封面进来的#唯爱王源 #热门 #官方别屏蔽</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDcxOTQwMTFfMTA4ODIyMzE1Nl85MjU4MjE1MzAzXzJfMw==_b_B3c687263a5425e470a51788856e9bf03&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/07/19/BMjAxODEyMDcxOTQwMTFfMTA4ODIyMzE1Nl85MjU4MjE1MzAzXzJfMw==_B59af3e7077979b8eaefd30b4e988743e.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/19/18/BMjAxODA5MTkxODEzNDRfMTA4ODIyMzE1Nl8xX2hkMzJfMzky_s.jpg" class="author-avatar" />中国军网</p><p class="list-item-desc">零下26度手枪限时快速射击！啥也不说了，看完视频，我先去暖暖手…</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjExMTEzMDJfMTA3NTY1MjA0Nl85NDY5MjY5OTg1XzFfMw==_b_Bb1631fea5d7960cd3426851ba7c00f31&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/21/11/BMjAxODEyMjExMTEzMDJfMTA3NTY1MjA0Nl85NDY5MjY5OTg1XzFfMw==_Bb32531e02f627ba1ec97dfc2575860cd.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/08/27/12/BMjAxODA4MjcxMjEwNDJfMTA3NTY1MjA0Nl8xX2hkMzIxXzM0_s.jpg" class="author-avatar" />郝小姐（分享）</p><p class="list-item-desc">如果时光能倒流，让我重新回到学生时代--亲爱的老师，多么想再聆听您那语重心长的教诲……#怀念青春</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTQxMTM4NTlfNjM1MDk2MDM0XzkzNTY0MDU3NjFfMl8z_b_B70950b3080d46479e433257ba4867fa0&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/14/11/BMjAxODEyMTQxMTM4NTlfNjM1MDk2MDM0XzkzNTY0MDU3NjFfMl8z_B125c7d478cd6e8aee0de0d14da35d3be.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/22/22/BMjAxODExMjIyMjU3MTlfNjM1MDk2MDM0XzJfaGQxMzBfNjMw_s.jpg" class="author-avatar" />＾÷＾老鹰之歌  ＾÷＾</p><p class="list-item-desc">...</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTUxMTU4MDhfNDAwNTYyOTkzXzkzNzM1NDQ3MDBfMV8z_b_B1d33a5f2d10d28edaaaa6d925b33862b&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/15/11/BMjAxODEyMTUxMTU4MDhfNDAwNTYyOTkzXzkzNzM1NDQ3MDBfMV8z_Be9148c7310e3f4d722adcbd7df711f14.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2017/04/14/13/BMjAxNzA0MTQxMzA5MzdfNDAwNTYyOTkzXzFfaGQw.jpg" class="author-avatar" />金毛蛋黄.</p><p class="list-item-desc">爆笑吃面来喽😂 双击❤️
+
+#蛋宝 #宠物 #汪星人 #我家萌宠</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgxODQ3MDlfMTEwMjI4NTY2MV85Mjc1MTc5NDExXzFfMw==_b_Bca1d90dd7f41c520998286bbe2dd334f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/08/18/BMjAxODEyMDgxODQ3MDlfMTEwMjI4NTY2MV85Mjc1MTc5NDExXzFfMw==_B0551494a60a84deb5c5e890332499ff4.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/30/14/BMjAxODA5MzAxNDI4NTNfMTEwMjI4NTY2MV8xX2hkNTk1XzQ0Nw==_s.jpg" class="author-avatar" />Mr.Pea逗逗先生</p><p class="list-item-desc">好嗨哟，感觉人生已经到达了高潮……#快影</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQxNTM1MDNfMzQ1MjY0MzQzXzkyMTIyNDUzOTZfMV8z_b_Ba9aba155ab8ccdfce08668e82ab66d2d&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/04/15/BMjAxODEyMDQxNTM1MDNfMzQ1MjY0MzQzXzkyMTIyNDUzOTZfMV8z_hd_Bf7d87ca96b09c413622bfbeae26d6e6b.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/10/05/18/BMjAxODEwMDUxODE0MjRfMzQ1MjY0MzQzXzFfaGQ3MF8yOTc=_s.jpg" class="author-avatar" />爽宝吖 🍼</p><p class="list-item-desc">你们要看奶奶录，奶奶来啦～💗
+
+有没有很好看哈哈🙈</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgxOTExMjRfMTMyNTg5MjIxXzkyNzU3MjkxMDZfMV8z_b_Bcb602e24409881cec2643dd6fe204061&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/08/19/BMjAxODEyMDgxOTExMjRfMTMyNTg5MjIxXzkyNzU3MjkxMDZfMV8z_B0bbe34da8139c1ba4830609f8b5ecedc.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/24/19/BMjAxODExMjQxOTI4MDRfMTMyNTg5MjIxXzJfaGQ2MjlfOTQ=_s.jpg" class="author-avatar" />宝贝蛋（与世无争）</p><p class="list-item-desc">喜欢的留个双击➕关注😘
+祝大家合家欢乐！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQxODMzMTJfMTExNjM2NDEyN185MjE0NjA3ODc5XzJfMw==_b_B1732a1c29ad2e6d937bfd099355ac48a&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/04/18/BMjAxODEyMDQxODMzMTJfMTExNjM2NDEyN185MjE0NjA3ODc5XzJfMw==_hd_B06d8b7d2360bc8f77924af12fdd05b29.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/02/17/BMjAxODExMDIxNzU1MDJfMTExNjM2NDEyN18yX2hkNDk0XzI4Mw==_s.jpg" class="author-avatar" />蛋哥eggthings</p><p class="list-item-desc">半夜腿抽筋，睡意瞬间消失，叫声响彻云霄😂
+#搞笑 #蛋哥 #睡觉 #动漫 #二次元</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTExOTUyMzZfNzI5OTc3NDI1XzkzMjI5MTU5NzJfMl8z_b_B7dd11bff22c9360dc9af05d07d2fb51f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/11/19/BMjAxODEyMTExOTUyMzZfNzI5OTc3NDI1XzkzMjI5MTU5NzJfMl8z_B2af3318d21237abc3634853703df1ebb.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/04/06/14/BMjAxODA0MDYxNDA1NDdfNzI5OTc3NDI1XzJfaGQxMDhfMjg4_s.jpg" class="author-avatar" />者零零壹</p><p class="list-item-desc">万鱼朝宗～
+见者好运💰发财💰～</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDEyMTI4MjFfNTYzNjc4Mjg0XzkxNzEyMTA5MzFfMV8z_b_B8ec6eb451b2e12996fa7c61d9ff1fd99&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/01/21/BMjAxODEyMDEyMTI4MjFfNTYzNjc4Mjg0XzkxNzEyMTA5MzFfMV8z_B38cc68ce21b0a891ba70df0d183825e0.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/26/02/BMjAxODExMjYwMjIyMzdfNTYzNjc4Mjg0XzFfaGQ2NzlfNDE1_s.jpg" class="author-avatar" />小洲团队-文文</p><p class="list-item-desc">吃喝玩乐那是货，同甘共苦才是妻 @小洲团队-舒克（sk），后期制作： @小洲团队-后期小恶龙</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgwMzI0MTlfMTA4OTc1MDA5OV85MjYzNDg5NzIzXzFfMw==_b_B348f89cee9702da7b93e9a46c36c26ca&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/08/03/BMjAxODEyMDgwMzI0MTlfMTA4OTc1MDA5OV85MjYzNDg5NzIzXzFfMw==_B6d829c1e09c52baf004e3a34d5cdcee6.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/13/20/BMjAxODA5MTMyMDA0MTNfMTA4OTc1MDA5OV8yX2hkNjE4XzQ5NQ==_s.jpg" class="author-avatar" />我们的太空</p><p class="list-item-desc">#嫦娥四号  官宣！“今夜月城人尽望，遥送嫦娥赴蟾宫”嫦娥四号发射成功！（正旗 泗江 刘旭）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjMxNTQ5MDRfNDk1MzU2NjY4Xzk1MTU3MzgwMTFfMV8z_b_B126c61788ff6a134402503945cd55d19&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//sjy.a.yximgs.com/upic/2018/12/23/15/BMjAxODEyMjMxNTQ5MDRfNDk1MzU2NjY4Xzk1MTU3MzgwMTFfMV8z_Ba25b88cfe9dbeaaa4597e815a51d27e2.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/01/13/BMjAxODA5MDExMzQ1MDFfNDk1MzU2NjY4XzFfaGQ0MjFfOTY1_s.jpg" class="author-avatar" />能蛋（忠言逆耳）</p><p class="list-item-desc">#快影#父爱如山
+段子不好拍啦，加个关注吧🙏</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDYwOTAyNTRfNTg4MzMxNDIwXzkyMzYxNTc2NTJfMV8z_b_B78643cc36c02c5f59cf7889bad6d4d3c&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/06/09/BMjAxODEyMDYwOTAyNTRfNTg4MzMxNDIwXzkyMzYxNTc2NTJfMV8z_B9801267150edf81f7ae4c1a2f61e6dc0.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/07/09/BMjAxODA1MDcwOTUyNTdfNTg4MzMxNDIwXzFfaGQzNF8xODg=_s.jpg" class="author-avatar" />珠珠阿妹</p><p class="list-item-desc">大家好，随手一个双击就是对我最大鼓励和安慰，谢谢大家支持！</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDkyMDAxNTBfMjg2NDg4ODFfOTI5NTA2Mjk0MF8xXzM=_b_B951bb86a38a8155681da06670489eb0a&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/09/20/BMjAxODEyMDkyMDAxNTBfMjg2NDg4ODFfOTI5NTA2Mjk0MF8xXzM=_B081ba15519cc9f862647d25767ce27dc.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/24/12/BMjAxODA5MjQxMjIwNTNfMjg2NDg4ODFfMV9oZDIxNV80NzI=_s.jpg" class="author-avatar" />许华升</p><p class="list-item-desc">天气冷了，大家记得穿秋裤😁</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTcxMjQ0NTdfMjU3NTc1NTVfOTQxMTYyMjQ1NF8xXzM=_b_B82d1bb95653834d7cbd0c916895ef076&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/17/12/BMjAxODEyMTcxMjQ0NTdfMjU3NTc1NTVfOTQxMTYyMjQ1NF8xXzM=_Beb309b1d877a93b66a54e7e163abd4ce.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/02/23/BMjAxODEyMDIyMzIzMjVfMjU3NTc1NTVfMV9oZDUzNF8zOTc=_s.jpg" class="author-avatar" />吴莹莹（善）</p><p class="list-item-desc">言不由衷的爱</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQwNjA3NDJfMTA4OTc1MDA5OV85MjA2OTk4NzI2XzFfMw==_b_B614f0932824306026e945671cdde5056&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/04/06/BMjAxODEyMDQwNjA3NDJfMTA4OTc1MDA5OV85MjA2OTk4NzI2XzFfMw==_hd_Bbe2108f78a03f319640d4273fd355590.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/13/20/BMjAxODA5MTMyMDA0MTNfMTA4OTc1MDA5OV8yX2hkNjE4XzQ5NQ==_s.jpg" class="author-avatar" />我们的太空</p><p class="list-item-desc">#退伍季 “老公，卸掉军衔，往后余生都是我的”（周永刚  张  哲  颜海生）</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDUyMTA2MjdfNTA4MjcwMTQ0XzkyMzIyNDAwNTZfMV8z_b_B4c13a9980415201f9753ec0ab4e87a54&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/05/21/BMjAxODEyMDUyMTA2MjdfNTA4MjcwMTQ0XzkyMzIyNDAwNTZfMV8z_B78c626bc2623375bdcaaae8ec4298927.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/26/09/BMjAxODExMjYwOTQ3MDhfNTA4MjcwMTQ0XzFfaGQyMjhfNzc1_s.jpg" class="author-avatar" />小琪家の猫</p><p class="list-item-desc">吃播松子儿又来啦～今天吃的是多春鱼小鱼干～</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTUxMTA3MzhfMjEwNzY0MDUxXzkzNzI2MTY0MjZfMV8z_b_B54b47b2f991386741c724ecbb40a1674&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/15/11/BMjAxODEyMTUxMTA3MzhfMjEwNzY0MDUxXzkzNzI2MTY0MjZfMV8z_B62f7dbe0d5636a70e3377dbf1bfe5217.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2017/10/31/19/BMjAxNzEwMzExOTU1MjNfMjEwNzY0MDUxXzJfaGQ4ODNfMzAx_s.jpg" class="author-avatar" />弹总🎋</p><p class="list-item-desc">弹珠是宝宝们一路看着长大的，以前拍子弹他们都没有用原相机留下这么多视频，只有弹珠，从来家到现在每一天都有她的视频，刚才翻相册，突然想整理一下给你们看～</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDEwOTAwMDBfOTQzNzMxNTA5XzkxNTU5MDAxMzhfMV8z_b_Bf291b502378c455293de9e4ac64a34fc&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//ali2.a.yximgs.com/upic/2018/12/01/09/BMjAxODEyMDEwOTAwMDBfOTQzNzMxNTA5XzkxNTU5MDAxMzhfMV8z_hd_B9f6996079297cd0842c9ebd1417d2ada.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/10/21/16/BMjAxODEwMjExNjAzNDRfOTQzNzMxNTA5XzFfaGQ3Ml8zNw==_s.jpg" class="author-avatar" />二狗（手机摄影）</p><p class="list-item-desc">大家一起来为这个小姐姐的演技打分～我给她99分，少一分怕她骄傲😂</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMTMxODMxMjZfODQzOTYyOTYwXzkzNDc5NDI3NzNfMV8z_b_B03239991de8fc56a81f4d1df30af72b7&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//tx2.a.yximgs.com/upic/2018/12/13/18/BMjAxODEyMTMxODMxMjZfODQzOTYyOTYwXzkzNDc5NDI3NzNfMV8z_Bb5e42d609e02b941476e3c3da0a4aca8.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/02/09/14/BMjAxODAyMDkxNDM3MzZfODQzOTYyOTYwXzFfaGQ2MzFfMzI=_s.jpg" class="author-avatar" />虽虽酱官方号</p><p class="list-item-desc">小短腿怎么办 @快手动漫#二次元动漫社 #二次元 #十二栋文化 #搞笑 #日常</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMjQxODA0NDJfMjg2NDg4ODFfOTUzNDc4NjYwMl8xXzM=_b_Bcaab70bd63e061c13453220eaa4ac088&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/24/18/BMjAxODEyMjQxODA0NDJfMjg2NDg4ODFfOTUzNDc4NjYwMl8xXzM=_B7a9b6ed33d55e83bff0ab9cdd7da295b.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/09/24/12/BMjAxODA5MjQxMjIwNTNfMjg2NDg4ODFfMV9oZDIxNV80NzI=_s.jpg" class="author-avatar" />许华升</p><p class="list-item-desc">这首歌：〈今升有你〉送给大家！相于网络，与你从未谋面，却让你们如此看起和无条件守护着我，我心全感激，我不是最好，但我一定不负你们的期望，今生对得起自己也要对得起那些一直支持我的朋友……致所有不锈钢</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDkyMTQ1MzdfOTE3NzkyMjA2XzkyOTY5OTc5NTVfMF8z_Bcd22ef68ec73491aa88d65ce5fc11449&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//bd.a.yximgs.com/upic/2018/12/09/21/BMjAxODEyMDkyMTQ1MzdfOTE3NzkyMjA2XzkyOTY5OTc5NTVfMF8z_B4f34bf0d97cb7f5d672536bfa45fd290.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/04/12/17/BMjAxODA0MTIxNzAzMjdfOTE3NzkyMjA2XzFfaGQxOTNfMjk4_s.jpg" class="author-avatar" />央视新闻移动网</p><p class="list-item-desc">央视段子手朱广权之“朝朝暮暮”新解。别忘了给手语老师点个赞！#冷</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgyMjMwNDRfNTU2OV85MjgwMDY1MzU4XzJfMw==_b_B0613ac9c656a17900b165308d3e8e5ee&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/08/22/BMjAxODEyMDgyMjMwNDRfNTU2OV85MjgwMDY1MzU4XzJfMw==_Bb57de6445e9d907ba8a384554aee7da1.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/11/29/08/BMjAxODExMjkwODAwMzBfNTU2OV8yX2hkODczXzQ5NA==_s.jpg" class="author-avatar" />表哥《环球旅行》</p><p class="list-item-desc">未来公交车，期待黑科技的到来吗？</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDQyMTI4MDBfMTA1OTU0NzhfOTIxNzU4ODI4N18xXzM=_b_B64ce49fc07818f0d45a33e0caca7a07f&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/04/21/BMjAxODEyMDQyMTI4MDBfMTA1OTU0NzhfOTIxNzU4ODI4N18xXzM=_hd_B1337e5a8d31507b06a1675ca4039f992.kpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/05/26/15/BMjAxODA1MjYxNTMwMTJfMTA1OTU0NzhfMV9oZDMyNl8zNzc=_s.jpg" class="author-avatar" />📸拍照技巧</p><p class="list-item-desc">拍了这个照片  你就是朋友圈最靓的仔
+
+
+#拍照技巧</p></div><div class="list-item-play"></div></a></div><div class="col-md-3"><a href="https://kuaiyinshi.com/?video_id=BMjAxODEyMDgxNzQ0MjRfMTI0NTIzOTJfOTI3Mzg0NzU4NV8xXzM=_b_B8728d1f99c34ec4442e319fc22c2bafe&amp;source=kuai-shou" class="thumbnail list-item" target="_blank"> <img src="//js2.a.yximgs.com/upic/2018/12/08/17/BMjAxODEyMDgxNzQ0MjRfMTI0NTIzOTJfOTI3Mzg0NzU4NV8xXzM=_B40f3084ec1d043b8fda67a95dbaf8dda.jpg" /> <div class="list-item-title"><p class="author-name"><img src="//ali2.a.yximgs.com/uhead/AB/2018/12/01/16/BMjAxODEyMDExNjMzNDZfMTI0NTIzOTJfMV9oZDg1NV80MzM=_s.jpg" class="author-avatar" />小艾同学呀.</p><p class="list-item-desc">有这样的姐姐真好  ❤️
+
+
+你们有这样的哥哥和姐姐吗？</p></div><div class="list-item-play"></div></a></div></div>
+<nav id="pagenation" style="display: none;">
+<ul class="pagination">
+<li class="page-item">
+<a class="current-page">1</a>
+</li>
+<li class="page-item">
+<a href="?source=kuai-shou&amp;page=2&amp;st=month" class="page-link">2</a>
+</li>
+<li class="page-item">
+<a href="?source=kuai-shou&amp;page=3&amp;st=month" class="page-link">3</a>
+</li>
+<li class="page-item">
+<a href="?source=kuai-shou&amp;page=4&amp;st=month" class="page-link">4</a>
+</li>
+<li class="page-item">
+<a href="?source=kuai-shou&amp;page=5&amp;st=month" class="page-link">5</a>
+</li>
+<li class="page-item"><a class="page-link" href="?source=kuai-shou&amp;page=2&amp;st=month">下一页</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+<footer class="footer">
+<div class="info text-center">
+<p>快音视收集了全网短视频，包括快手、抖音、火山小视频、西瓜视频、微视等等，并且不定期更新各个平台的网红视频排行榜，音乐bgm排行榜，推荐热门短视频视频和短视频制作工具。</p>
+<p> Copyright ©2018 <span>kuaiyinshi.com</span> All Rights Reserved. <span>快音视</span> 版权所有;
+<a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">粤ICP备16119206号-6</a>
+</p>
+<p>免责声明： 本站数据收集自互联网公开信息而生成，本站不承担任何相关法律责任！如有疑问或反馈，可<a href="http://dashengkeji.mikecrm.com/gMDeqmz" target="_blank" rel="nofollow" style="background: #10d560;padding: 5px;font-size: 13px;">提交反馈</a>或请联系快音视 kuaiyinshi@protonmail.com
+<a class="qq-talk" href="http://wpa.qq.com/msgrd?v=3&amp;uin=2067224490&amp;site=qq&amp;menu=yes" target="_blank"></a>
+</p>
+</div>
+<div class="product text-center">
+<div>友情链接：
+<a href="https://8qqai.com/" target="_blank">QQ爱导航</a>
+<a href="http://www.kalaxing.com/?r=kuaiyinshi" target="_blank">卡拉星</a>
+<a href="https://huitaodang.com/" target="_blank">惠淘党</a>
+<a href="https://gpsweixin.com/" target="_blank">微信导航</a>
+</div>
+</div>
+</footer>
+</div>
+</main>
+<div class="weixin-tip" id="weixin_tip">
+<p>
+<img id="weixin-share" class="weixin-share" src="https://h.tqdn.cn/images/live_weixin.png" />
+</p>
+</div>
+<div class="edge">
+<div class="edge-body">
+<div>
+<ul>
+<li>
+<a class="weixin-info" target="_blank">
+<i class="icon iconfont icon-weixin"></i>
+<div class="wx-gzh">
+<img width="120px" src="//g-search1.alicdn.com/img/bao/uploaded/i4/TB1BndbA1uSBuNjSsziXXbq8pXa" alt="快音视公众号" />
+<p>关注快音视公众号</p>
+<img width="120px" src="//g-search1.alicdn.com/img/bao/uploaded/i4/TB1NuOmkz7nBKNjSZLeXXbxCFXa" alt="快音视小程序" />
+<p>打开快音视小程序</p>
+</div>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+<script src="//kys.tqdn.cn/js/jquery.min.js?t=1538962699"></script>
+<script src="//kys.tqdn.cn/js/bootstrap.min.js?t=1538962699"></script>
+<script src="//kys.tqdn.cn/js/public.js?t=1533287273"></script>
+<script>$('#pagenation').hide()
+var flag =true;var page =1
+$(window).scroll(function () {var scrollTop =$(this).scrollTop();var scrollHeight =$(document).height();var windowHeight =$(this).height();if (scrollHeight - (scrollTop + windowHeight) &lt;=500 &amp;&amp;flag ===true) {page +=1
+flag =false
+var api_url ='/api/hot/videos/' + location.search.replace(/page\=1/g,'page=' + page)
+if (location.pathname ==='/video/'){api_url ='/api/videos/' + location.search.replace(/page\=1/g,'page=' + page)
+}
+$.get(api_url,function(resp){var listHtml =''
+if(resp.code ===200){var dataList =[]
+if(resp.data){dataList =resp.data
+}else if(resp.aweme_list){dataList =resp.aweme_list
+}
+dataList.forEach(function(item){listHtml +='&lt;div class="col-md-3"&gt;';var source =judgeSource(item.video_url)
+var t =source[0],video_id =source[1];listHtml +='&lt;a href="'+ location.origin +'/?video_id=' + video_id + '&amp;source=' + t +'"  class="thumbnail list-item" target="_blank"&gt;'
+listHtml +=' &lt;img src="' + item.video_img + '"&gt;'
+listHtml +=' &lt;div class="list-item-title"&gt;&lt;p class="author-name"&gt;'
+listHtml +='&lt;img src="' + item.avatar + '" class="author-avatar" /&gt;' + item.nickname + '&lt;/p&gt;'
+listHtml +='&lt;p class="list-item-desc"&gt;'+ item.desc +'&lt;/p&gt;'
+listHtml +='&lt;/div&gt;&lt;div class="list-item-play"&gt;&lt;/div&gt;&lt;/a&gt;&lt;/div&gt;'
+})
+flag =true
+}
+$('#video-list').append(listHtml)
+ })
+} 
+});var st =getQueryString('st')
+if (st ==='week'){$('#one-week').attr('class','selected')
+} else if (st ==='month'){$('#one-month').attr('class','selected')
+} else if (st ==='day'){$('#one-day').attr('class','selected')
+} else{$('#self-site').attr('class','selected')
+}
+</script>
+<script>(function(){var src =(document.location.protocol =="http:") ?"http://js.passport.qihucdn.com/11.0.1.js?29979395a6a076383faf2e49ed9fd1ad":"https://jspassport.ssl.qhimg.com/11.0.1.js?29979395a6a076383faf2e49ed9fd1ad";document.write('&lt;script src="' + src + '" id="sozz"&gt;&lt;\/script&gt;');})();</script><script src="https://jspassport.ssl.qhimg.com/11.0.1.js?29979395a6a076383faf2e49ed9fd1ad" id="sozz"></script><script charset="utf-8" src="https://s.ssl.qhres.com/ssl/ab77b6ea7f3fbf79.js"></script>
+<script>var _hmt =_hmt ||[];(function() {var hm =document.createElement("script");hm.src ="https://hm.baidu.com/hm.js?67cfc45e6393b98852546ccd940217ac";var s =document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script>
+</body></html>

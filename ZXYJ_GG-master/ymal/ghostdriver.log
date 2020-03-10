@@ -1,0 +1,12 @@
+[INFO  - 2018-12-17T05:51:21.810Z] GhostDriver - Main - running on port 62153
+[INFO  - 2018-12-17T05:51:23.912Z] Session [c949d070-01bf-11e9-8fd4-afcea9eb4bdf] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-12-17T05:51:23.912Z] Session [c949d070-01bf-11e9-8fd4-afcea9eb4bdf] - page.customHeaders:  - {}
+[INFO  - 2018-12-17T05:51:23.912Z] Session [c949d070-01bf-11e9-8fd4-afcea9eb4bdf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-12-17T05:51:23.912Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c949d070-01bf-11e9-8fd4-afcea9eb4bdf
+[ERROR - 2018-12-17T05:51:24.413Z] Session [c949d070-01bf-11e9-8fd4-afcea9eb4bdf] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'document[__Ox229ff[111]](__Ox229ff[110])[__Ox229ff[109]]()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-12-17T05:51:24.413Z] Session [c949d070-01bf-11e9-8fd4-afcea9eb4bdf] - page.onError - stack:
+  applyVideo (https://kys.tqdn.cn/js/main.js?t=1543020672:1)
+
+  phantomjs://platform/console++.js:263 in error
